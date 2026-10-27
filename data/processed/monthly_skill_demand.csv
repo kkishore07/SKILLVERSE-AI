@@ -1,0 +1,3442 @@
+year_month,skill,demand_count
+2022-01,AWS,16
+2022-01,Airflow,2
+2022-01,Azure,6
+2022-01,Bash,4
+2022-01,BigQuery,4
+2022-01,C++,6
+2022-01,CI/CD,9
+2022-01,Cloud Computing,7
+2022-01,Cloud Security,3
+2022-01,Computer Vision,4
+2022-01,Cryptography,3
+2022-01,Cybersecurity,11
+2022-01,DAX,3
+2022-01,Data Modeling,5
+2022-01,Data Pipelines,3
+2022-01,Data Visualization,3
+2022-01,Data Warehousing,2
+2022-01,Deep Learning,7
+2022-01,Docker,23
+2022-01,ETL,3
+2022-01,Excel,6
+2022-01,FastAPI,3
+2022-01,Firewalls,3
+2022-01,GCP,3
+2022-01,Generative AI,5
+2022-01,Git,8
+2022-01,HTML/CSS,4
+2022-01,JavaScript,4
+2022-01,Kafka,1
+2022-01,Kubernetes,11
+2022-01,LLM,2
+2022-01,Linux,11
+2022-01,MLOps,1
+2022-01,Machine Learning,10
+2022-01,Mathematics,5
+2022-01,Microservices,3
+2022-01,MongoDB,1
+2022-01,NLP,7
+2022-01,Network Security,5
+2022-01,Next.js,2
+2022-01,Node.js,4
+2022-01,Pandas,4
+2022-01,PostgreSQL,3
+2022-01,Power BI,6
+2022-01,Prometheus,2
+2022-01,PyTorch,10
+2022-01,Python,30
+2022-01,React,4
+2022-01,Reinforcement Learning,3
+2022-01,SIEM,5
+2022-01,SQL,18
+2022-01,Scala,2
+2022-01,Scikit-learn,5
+2022-01,Snowflake,4
+2022-01,Spark,3
+2022-01,Statistics,6
+2022-01,System Architecture,3
+2022-01,Tableau,9
+2022-01,Tailwind CSS,1
+2022-01,TensorFlow,2
+2022-01,Terraform,10
+2022-01,Threat Analysis,3
+2022-01,TypeScript,3
+2022-02,AWS,37
+2022-02,Airflow,4
+2022-02,Azure,4
+2022-02,Bash,14
+2022-02,BigQuery,15
+2022-02,Business Intelligence,7
+2022-02,C++,16
+2022-02,CI/CD,13
+2022-02,Cloud Computing,12
+2022-02,Cloud Security,2
+2022-02,Computer Vision,6
+2022-02,Cryptography,4
+2022-02,Cybersecurity,16
+2022-02,DAX,3
+2022-02,Data Modeling,6
+2022-02,Data Pipelines,9
+2022-02,Data Visualization,13
+2022-02,Data Warehousing,6
+2022-02,Deep Learning,17
+2022-02,Docker,43
+2022-02,ETL,4
+2022-02,Excel,15
+2022-02,FastAPI,15
+2022-02,Firewalls,4
+2022-02,GCP,7
+2022-02,Generative AI,14
+2022-02,Git,15
+2022-02,HTML/CSS,10
+2022-02,JavaScript,10
+2022-02,Kafka,4
+2022-02,Kubernetes,22
+2022-02,LLM,7
+2022-02,Linux,20
+2022-02,MLOps,7
+2022-02,Machine Learning,27
+2022-02,Mathematics,12
+2022-02,Microservices,5
+2022-02,MongoDB,6
+2022-02,NLP,10
+2022-02,Network Security,8
+2022-02,Next.js,3
+2022-02,Node.js,10
+2022-02,Pandas,11
+2022-02,PostgreSQL,10
+2022-02,Power BI,11
+2022-02,Prometheus,4
+2022-02,PyTorch,25
+2022-02,Python,76
+2022-02,R,4
+2022-02,React,10
+2022-02,Reinforcement Learning,7
+2022-02,SIEM,8
+2022-02,SQL,45
+2022-02,Scala,6
+2022-02,Scikit-learn,15
+2022-02,Snowflake,10
+2022-02,Spark,9
+2022-02,Statistics,13
+2022-02,System Architecture,7
+2022-02,Tableau,21
+2022-02,Tailwind CSS,2
+2022-02,TensorFlow,10
+2022-02,Terraform,17
+2022-02,Threat Analysis,7
+2022-02,TypeScript,5
+2022-03,AWS,44
+2022-03,Airflow,6
+2022-03,Azure,17
+2022-03,Bash,20
+2022-03,BigQuery,16
+2022-03,Business Intelligence,5
+2022-03,C++,13
+2022-03,CI/CD,19
+2022-03,Cloud Computing,20
+2022-03,Cloud Security,5
+2022-03,Computer Vision,9
+2022-03,Cryptography,7
+2022-03,Cybersecurity,25
+2022-03,DAX,3
+2022-03,Data Modeling,5
+2022-03,Data Pipelines,9
+2022-03,Data Visualization,14
+2022-03,Data Warehousing,3
+2022-03,Deep Learning,25
+2022-03,Docker,57
+2022-03,ETL,3
+2022-03,Excel,15
+2022-03,FastAPI,13
+2022-03,Firewalls,5
+2022-03,GCP,6
+2022-03,Generative AI,10
+2022-03,Git,18
+2022-03,HTML/CSS,10
+2022-03,JavaScript,10
+2022-03,Kafka,4
+2022-03,Kubernetes,34
+2022-03,LLM,7
+2022-03,Linux,32
+2022-03,MLOps,8
+2022-03,Machine Learning,30
+2022-03,Mathematics,13
+2022-03,Microservices,6
+2022-03,MongoDB,6
+2022-03,NLP,11
+2022-03,Network Security,10
+2022-03,Next.js,3
+2022-03,Node.js,10
+2022-03,Pandas,15
+2022-03,PostgreSQL,10
+2022-03,Power BI,13
+2022-03,Prometheus,10
+2022-03,PyTorch,26
+2022-03,Python,82
+2022-03,R,5
+2022-03,React,10
+2022-03,Reinforcement Learning,9
+2022-03,SIEM,10
+2022-03,SQL,48
+2022-03,Scala,6
+2022-03,Scikit-learn,17
+2022-03,Snowflake,11
+2022-03,Spark,9
+2022-03,Statistics,17
+2022-03,System Architecture,5
+2022-03,Tableau,21
+2022-03,Tailwind CSS,6
+2022-03,TensorFlow,10
+2022-03,Terraform,26
+2022-03,Threat Analysis,6
+2022-03,TypeScript,3
+2022-04,AWS,55
+2022-04,Airflow,4
+2022-04,Azure,13
+2022-04,Bash,12
+2022-04,BigQuery,21
+2022-04,Business Intelligence,7
+2022-04,C++,16
+2022-04,CI/CD,15
+2022-04,Cloud Computing,19
+2022-04,Cloud Security,8
+2022-04,Computer Vision,8
+2022-04,Cryptography,8
+2022-04,Cybersecurity,22
+2022-04,DAX,3
+2022-04,Data Modeling,9
+2022-04,Data Pipelines,13
+2022-04,Data Visualization,22
+2022-04,Data Warehousing,3
+2022-04,Deep Learning,35
+2022-04,Docker,79
+2022-04,ETL,3
+2022-04,Excel,20
+2022-04,FastAPI,14
+2022-04,Firewalls,6
+2022-04,GCP,9
+2022-04,Generative AI,16
+2022-04,Git,15
+2022-04,HTML/CSS,13
+2022-04,JavaScript,13
+2022-04,Kafka,4
+2022-04,Kubernetes,40
+2022-04,LLM,13
+2022-04,Linux,25
+2022-04,MLOps,14
+2022-04,Machine Learning,44
+2022-04,Mathematics,14
+2022-04,Microservices,10
+2022-04,MongoDB,8
+2022-04,NLP,16
+2022-04,Network Security,10
+2022-04,Next.js,6
+2022-04,Node.js,13
+2022-04,Pandas,19
+2022-04,PostgreSQL,17
+2022-04,Power BI,18
+2022-04,Prometheus,6
+2022-04,PyTorch,36
+2022-04,Python,108
+2022-04,R,8
+2022-04,React,13
+2022-04,Reinforcement Learning,9
+2022-04,SIEM,10
+2022-04,SQL,71
+2022-04,Scala,5
+2022-04,Scikit-learn,30
+2022-04,Snowflake,15
+2022-04,Spark,13
+2022-04,Statistics,29
+2022-04,System Architecture,9
+2022-04,Tableau,30
+2022-04,Tailwind CSS,4
+2022-04,TensorFlow,18
+2022-04,Terraform,24
+2022-04,TypeScript,7
+2022-05,AWS,62
+2022-05,Airflow,7
+2022-05,Azure,11
+2022-05,Bash,13
+2022-05,BigQuery,20
+2022-05,Business Intelligence,5
+2022-05,C++,26
+2022-05,CI/CD,15
+2022-05,Cloud Computing,16
+2022-05,Cloud Security,9
+2022-05,Computer Vision,8
+2022-05,Cryptography,7
+2022-05,Cybersecurity,23
+2022-05,DAX,7
+2022-05,Data Modeling,12
+2022-05,Data Pipelines,17
+2022-05,Data Visualization,20
+2022-05,Data Warehousing,5
+2022-05,Deep Learning,31
+2022-05,Docker,82
+2022-05,ETL,5
+2022-05,Excel,22
+2022-05,FastAPI,21
+2022-05,Firewalls,6
+2022-05,GCP,9
+2022-05,Generative AI,15
+2022-05,Git,19
+2022-05,HTML/CSS,14
+2022-05,JavaScript,14
+2022-05,Kafka,11
+2022-05,Kubernetes,43
+2022-05,LLM,6
+2022-05,Linux,26
+2022-05,MLOps,21
+2022-05,Machine Learning,49
+2022-05,Mathematics,13
+2022-05,Microservices,8
+2022-05,MongoDB,7
+2022-05,NLP,13
+2022-05,Network Security,10
+2022-05,Next.js,9
+2022-05,Node.js,14
+2022-05,Pandas,20
+2022-05,PostgreSQL,23
+2022-05,Power BI,17
+2022-05,Prometheus,5
+2022-05,PyTorch,38
+2022-05,Python,116
+2022-05,R,3
+2022-05,React,14
+2022-05,Reinforcement Learning,9
+2022-05,SIEM,10
+2022-05,SQL,81
+2022-05,Scala,8
+2022-05,Scikit-learn,36
+2022-05,Snowflake,22
+2022-05,Spark,17
+2022-05,Statistics,30
+2022-05,System Architecture,9
+2022-05,Tableau,33
+2022-05,Tailwind CSS,5
+2022-05,TensorFlow,19
+2022-05,Terraform,22
+2022-05,Threat Analysis,6
+2022-05,TypeScript,12
+2022-06,AWS,75
+2022-06,Airflow,6
+2022-06,Azure,22
+2022-06,Bash,28
+2022-06,BigQuery,25
+2022-06,Business Intelligence,7
+2022-06,C++,14
+2022-06,CI/CD,28
+2022-06,Cloud Computing,30
+2022-06,Cloud Security,9
+2022-06,Computer Vision,3
+2022-06,Cryptography,5
+2022-06,Cybersecurity,41
+2022-06,DAX,7
+2022-06,Data Modeling,13
+2022-06,Data Pipelines,16
+2022-06,Data Visualization,24
+2022-06,Data Warehousing,7
+2022-06,Deep Learning,23
+2022-06,Docker,107
+2022-06,ETL,5
+2022-06,Excel,28
+2022-06,FastAPI,19
+2022-06,Firewalls,10
+2022-06,GCP,9
+2022-06,Generative AI,12
+2022-06,Git,27
+2022-06,HTML/CSS,19
+2022-06,JavaScript,19
+2022-06,Kafka,7
+2022-06,Kubernetes,48
+2022-06,LLM,6
+2022-06,Linux,51
+2022-06,MLOps,17
+2022-06,Machine Learning,40
+2022-06,Mathematics,6
+2022-06,Microservices,10
+2022-06,MongoDB,3
+2022-06,NLP,14
+2022-06,Network Security,19
+2022-06,Next.js,10
+2022-06,Node.js,19
+2022-06,Pandas,25
+2022-06,PostgreSQL,15
+2022-06,Power BI,18
+2022-06,Prometheus,7
+2022-06,PyTorch,30
+2022-06,Python,143
+2022-06,R,7
+2022-06,React,19
+2022-06,SIEM,19
+2022-06,SQL,90
+2022-06,Scala,11
+2022-06,Scikit-learn,34
+2022-06,Snowflake,27
+2022-06,Spark,16
+2022-06,Statistics,29
+2022-06,System Architecture,9
+2022-06,Tableau,38
+2022-06,Tailwind CSS,9
+2022-06,TensorFlow,14
+2022-06,Terraform,36
+2022-06,Threat Analysis,8
+2022-06,TypeScript,14
+2022-07,AWS,59
+2022-07,Airflow,5
+2022-07,Azure,17
+2022-07,Bash,26
+2022-07,BigQuery,21
+2022-07,Business Intelligence,14
+2022-07,C++,23
+2022-07,CI/CD,20
+2022-07,Cloud Computing,25
+2022-07,Cloud Security,11
+2022-07,Computer Vision,9
+2022-07,Cryptography,14
+2022-07,Cybersecurity,37
+2022-07,DAX,7
+2022-07,Data Modeling,13
+2022-07,Data Pipelines,9
+2022-07,Data Visualization,23
+2022-07,Data Warehousing,10
+2022-07,Deep Learning,31
+2022-07,Docker,93
+2022-07,ETL,8
+2022-07,Excel,30
+2022-07,FastAPI,28
+2022-07,Firewalls,7
+2022-07,GCP,11
+2022-07,Generative AI,21
+2022-07,Git,24
+2022-07,HTML/CSS,21
+2022-07,JavaScript,21
+2022-07,Kafka,6
+2022-07,Kubernetes,40
+2022-07,LLM,11
+2022-07,Linux,41
+2022-07,MLOps,17
+2022-07,Machine Learning,45
+2022-07,Mathematics,18
+2022-07,Microservices,8
+2022-07,MongoDB,13
+2022-07,NLP,15
+2022-07,Network Security,20
+2022-07,Next.js,14
+2022-07,Node.js,21
+2022-07,Pandas,21
+2022-07,PostgreSQL,18
+2022-07,Power BI,23
+2022-07,Prometheus,5
+2022-07,PyTorch,40
+2022-07,Python,136
+2022-07,R,11
+2022-07,React,21
+2022-07,Reinforcement Learning,13
+2022-07,SIEM,20
+2022-07,SQL,79
+2022-07,Scala,7
+2022-07,Scikit-learn,27
+2022-07,Snowflake,23
+2022-07,Spark,9
+2022-07,Statistics,26
+2022-07,System Architecture,11
+2022-07,Tableau,38
+2022-07,Tailwind CSS,14
+2022-07,TensorFlow,19
+2022-07,Terraform,28
+2022-07,Threat Analysis,10
+2022-07,TypeScript,14
+2022-08,AWS,74
+2022-08,Airflow,5
+2022-08,Azure,16
+2022-08,Bash,25
+2022-08,BigQuery,28
+2022-08,Business Intelligence,2
+2022-08,C++,21
+2022-08,CI/CD,31
+2022-08,Cloud Computing,23
+2022-08,Cloud Security,8
+2022-08,Computer Vision,8
+2022-08,Cryptography,8
+2022-08,Cybersecurity,36
+2022-08,DAX,9
+2022-08,Data Modeling,17
+2022-08,Data Pipelines,13
+2022-08,Data Visualization,19
+2022-08,Data Warehousing,12
+2022-08,Deep Learning,39
+2022-08,Docker,99
+2022-08,ETL,7
+2022-08,Excel,25
+2022-08,FastAPI,18
+2022-08,Firewalls,7
+2022-08,GCP,6
+2022-08,Generative AI,25
+2022-08,Git,22
+2022-08,HTML/CSS,10
+2022-08,JavaScript,10
+2022-08,Kafka,9
+2022-08,Kubernetes,51
+2022-08,LLM,13
+2022-08,Linux,48
+2022-08,MLOps,18
+2022-08,Machine Learning,50
+2022-08,Mathematics,13
+2022-08,Microservices,7
+2022-08,MongoDB,4
+2022-08,NLP,16
+2022-08,Network Security,17
+2022-08,Next.js,7
+2022-08,Node.js,10
+2022-08,Pandas,25
+2022-08,PostgreSQL,16
+2022-08,Power BI,19
+2022-08,Prometheus,13
+2022-08,PyTorch,42
+2022-08,Python,133
+2022-08,R,8
+2022-08,React,10
+2022-08,Reinforcement Learning,7
+2022-08,SIEM,17
+2022-08,SQL,79
+2022-08,Scala,9
+2022-08,Scikit-learn,37
+2022-08,Snowflake,25
+2022-08,Spark,13
+2022-08,Statistics,35
+2022-08,System Architecture,8
+2022-08,Tableau,31
+2022-08,Tailwind CSS,8
+2022-08,TensorFlow,16
+2022-08,Terraform,38
+2022-08,Threat Analysis,11
+2022-08,TypeScript,7
+2022-09,AWS,76
+2022-09,Airflow,6
+2022-09,Azure,22
+2022-09,Bash,33
+2022-09,BigQuery,25
+2022-09,Business Intelligence,9
+2022-09,C++,19
+2022-09,CI/CD,34
+2022-09,Cloud Computing,31
+2022-09,Cloud Security,16
+2022-09,Computer Vision,4
+2022-09,Cryptography,9
+2022-09,Cybersecurity,43
+2022-09,DAX,10
+2022-09,Data Modeling,16
+2022-09,Data Pipelines,15
+2022-09,Data Visualization,21
+2022-09,Data Warehousing,5
+2022-09,Deep Learning,27
+2022-09,Docker,103
+2022-09,ETL,9
+2022-09,Excel,29
+2022-09,FastAPI,28
+2022-09,Firewalls,6
+2022-09,GCP,14
+2022-09,Generative AI,16
+2022-09,Git,36
+2022-09,HTML/CSS,25
+2022-09,JavaScript,25
+2022-09,Kafka,10
+2022-09,Kubernetes,58
+2022-09,LLM,14
+2022-09,Linux,50
+2022-09,MLOps,16
+2022-09,Machine Learning,43
+2022-09,Mathematics,14
+2022-09,Microservices,11
+2022-09,MongoDB,13
+2022-09,NLP,14
+2022-09,Network Security,18
+2022-09,Next.js,15
+2022-09,Node.js,25
+2022-09,Pandas,23
+2022-09,PostgreSQL,23
+2022-09,Power BI,19
+2022-09,Prometheus,9
+2022-09,PyTorch,37
+2022-09,Python,140
+2022-09,R,8
+2022-09,React,25
+2022-09,Reinforcement Learning,7
+2022-09,SIEM,18
+2022-09,SQL,92
+2022-09,Scala,5
+2022-09,Scikit-learn,29
+2022-09,Snowflake,27
+2022-09,Spark,15
+2022-09,Statistics,29
+2022-09,System Architecture,12
+2022-09,Tableau,37
+2022-09,Tailwind CSS,16
+2022-09,TensorFlow,20
+2022-09,Terraform,42
+2022-09,Threat Analysis,10
+2022-09,TypeScript,17
+2022-10,AWS,71
+2022-10,Airflow,7
+2022-10,Azure,19
+2022-10,Bash,23
+2022-10,BigQuery,40
+2022-10,Business Intelligence,13
+2022-10,C++,25
+2022-10,CI/CD,25
+2022-10,Cloud Computing,28
+2022-10,Cloud Security,11
+2022-10,Computer Vision,7
+2022-10,Cryptography,13
+2022-10,Cybersecurity,41
+2022-10,DAX,6
+2022-10,Data Modeling,15
+2022-10,Data Pipelines,15
+2022-10,Data Visualization,34
+2022-10,Data Warehousing,10
+2022-10,Deep Learning,40
+2022-10,Docker,103
+2022-10,ETL,7
+2022-10,Excel,33
+2022-10,FastAPI,20
+2022-10,Firewalls,8
+2022-10,GCP,10
+2022-10,Generative AI,18
+2022-10,Git,24
+2022-10,HTML/CSS,16
+2022-10,JavaScript,16
+2022-10,Kafka,10
+2022-10,Kubernetes,44
+2022-10,LLM,9
+2022-10,Linux,44
+2022-10,MLOps,15
+2022-10,Machine Learning,57
+2022-10,Mathematics,16
+2022-10,Microservices,11
+2022-10,MongoDB,8
+2022-10,NLP,22
+2022-10,Network Security,20
+2022-10,Next.js,9
+2022-10,Node.js,16
+2022-10,Pandas,38
+2022-10,PostgreSQL,16
+2022-10,Power BI,24
+2022-10,Prometheus,7
+2022-10,PyTorch,44
+2022-10,Python,152
+2022-10,R,9
+2022-10,React,16
+2022-10,Reinforcement Learning,7
+2022-10,SIEM,20
+2022-10,SQL,100
+2022-10,Scala,10
+2022-10,Scikit-learn,41
+2022-10,Snowflake,29
+2022-10,Spark,15
+2022-10,Statistics,52
+2022-10,System Architecture,11
+2022-10,Tableau,51
+2022-10,Tailwind CSS,9
+2022-10,TensorFlow,18
+2022-10,Terraform,31
+2022-10,Threat Analysis,11
+2022-10,TypeScript,11
+2022-11,AWS,71
+2022-11,Airflow,9
+2022-11,Azure,17
+2022-11,Bash,25
+2022-11,BigQuery,29
+2022-11,Business Intelligence,9
+2022-11,C++,24
+2022-11,CI/CD,25
+2022-11,Cloud Computing,26
+2022-11,Cloud Security,14
+2022-11,Computer Vision,9
+2022-11,Cryptography,9
+2022-11,Cybersecurity,38
+2022-11,DAX,12
+2022-11,Data Modeling,22
+2022-11,Data Pipelines,15
+2022-11,Data Visualization,29
+2022-11,Data Warehousing,13
+2022-11,Deep Learning,41
+2022-11,Docker,116
+2022-11,ETL,11
+2022-11,Excel,41
+2022-11,FastAPI,29
+2022-11,Firewalls,11
+2022-11,GCP,6
+2022-11,Generative AI,23
+2022-11,Git,36
+2022-11,HTML/CSS,27
+2022-11,JavaScript,27
+2022-11,Kafka,7
+2022-11,Kubernetes,39
+2022-11,LLM,14
+2022-11,Linux,41
+2022-11,MLOps,18
+2022-11,Machine Learning,62
+2022-11,Mathematics,19
+2022-11,Microservices,6
+2022-11,MongoDB,13
+2022-11,NLP,29
+2022-11,Network Security,20
+2022-11,Next.js,16
+2022-11,Node.js,27
+2022-11,Pandas,38
+2022-11,PostgreSQL,19
+2022-11,Power BI,28
+2022-11,Prometheus,9
+2022-11,PyTorch,49
+2022-11,Python,171
+2022-11,R,14
+2022-11,React,27
+2022-11,Reinforcement Learning,12
+2022-11,SIEM,20
+2022-11,SQL,117
+2022-11,Scala,8
+2022-11,Scikit-learn,43
+2022-11,Snowflake,32
+2022-11,Spark,15
+2022-11,Statistics,46
+2022-11,System Architecture,10
+2022-11,Tableau,54
+2022-11,Tailwind CSS,16
+2022-11,TensorFlow,20
+2022-11,Terraform,29
+2022-11,Threat Analysis,13
+2022-11,TypeScript,21
+2022-12,AWS,94
+2022-12,Airflow,6
+2022-12,Azure,20
+2022-12,Bash,31
+2022-12,BigQuery,35
+2022-12,Business Intelligence,10
+2022-12,C++,23
+2022-12,CI/CD,35
+2022-12,Cloud Computing,40
+2022-12,Cloud Security,17
+2022-12,Computer Vision,8
+2022-12,Cryptography,18
+2022-12,Cybersecurity,52
+2022-12,DAX,9
+2022-12,Data Modeling,17
+2022-12,Data Pipelines,18
+2022-12,Data Visualization,32
+2022-12,Data Warehousing,9
+2022-12,Deep Learning,42
+2022-12,Docker,129
+2022-12,ETL,14
+2022-12,Excel,36
+2022-12,FastAPI,20
+2022-12,Firewalls,15
+2022-12,GCP,21
+2022-12,Generative AI,23
+2022-12,Git,24
+2022-12,HTML/CSS,15
+2022-12,JavaScript,15
+2022-12,Kafka,12
+2022-12,Kubernetes,62
+2022-12,LLM,13
+2022-12,Linux,64
+2022-12,MLOps,17
+2022-12,Machine Learning,58
+2022-12,Mathematics,18
+2022-12,Microservices,22
+2022-12,MongoDB,7
+2022-12,NLP,27
+2022-12,Network Security,26
+2022-12,Next.js,7
+2022-12,Node.js,15
+2022-12,Pandas,35
+2022-12,PostgreSQL,22
+2022-12,Power BI,28
+2022-12,Prometheus,12
+2022-12,PyTorch,45
+2022-12,Python,173
+2022-12,R,12
+2022-12,React,15
+2022-12,Reinforcement Learning,7
+2022-12,SIEM,26
+2022-12,SQL,103
+2022-12,Scala,12
+2022-12,Scikit-learn,40
+2022-12,Snowflake,29
+2022-12,Spark,18
+2022-12,Statistics,42
+2022-12,System Architecture,21
+2022-12,Tableau,53
+2022-12,Tailwind CSS,12
+2022-12,TensorFlow,21
+2022-12,Terraform,46
+2022-12,Threat Analysis,8
+2022-12,TypeScript,10
+2023-01,AWS,72
+2023-01,Airflow,11
+2023-01,Azure,17
+2023-01,Bash,26
+2023-01,BigQuery,31
+2023-01,Business Intelligence,14
+2023-01,C++,43
+2023-01,CI/CD,20
+2023-01,Cloud Computing,23
+2023-01,Cloud Security,9
+2023-01,Computer Vision,17
+2023-01,Cryptography,16
+2023-01,Cybersecurity,43
+2023-01,DAX,15
+2023-01,Data Modeling,27
+2023-01,Data Pipelines,14
+2023-01,Data Visualization,33
+2023-01,Data Warehousing,15
+2023-01,Deep Learning,51
+2023-01,Docker,104
+2023-01,ETL,17
+2023-01,Excel,49
+2023-01,FastAPI,31
+2023-01,Firewalls,14
+2023-01,GCP,11
+2023-01,Generative AI,27
+2023-01,Git,24
+2023-01,HTML/CSS,20
+2023-01,JavaScript,20
+2023-01,Kafka,8
+2023-01,Kubernetes,49
+2023-01,LLM,24
+2023-01,Linux,44
+2023-01,MLOps,20
+2023-01,Machine Learning,71
+2023-01,Mathematics,31
+2023-01,Microservices,11
+2023-01,MongoDB,13
+2023-01,NLP,26
+2023-01,Network Security,25
+2023-01,Next.js,16
+2023-01,Node.js,20
+2023-01,Pandas,31
+2023-01,PostgreSQL,22
+2023-01,Power BI,39
+2023-01,Prometheus,7
+2023-01,PyTorch,59
+2023-01,Python,181
+2023-01,R,14
+2023-01,React,20
+2023-01,Reinforcement Learning,19
+2023-01,SIEM,25
+2023-01,SQL,116
+2023-01,Scala,11
+2023-01,Scikit-learn,40
+2023-01,Snowflake,32
+2023-01,Spark,14
+2023-01,Statistics,47
+2023-01,System Architecture,10
+2023-01,Tableau,64
+2023-01,Tailwind CSS,12
+2023-01,TensorFlow,24
+2023-01,Terraform,29
+2023-01,Threat Analysis,13
+2023-01,TypeScript,15
+2023-02,AWS,80
+2023-02,Airflow,9
+2023-02,Azure,19
+2023-02,Bash,31
+2023-02,BigQuery,31
+2023-02,Business Intelligence,8
+2023-02,C++,26
+2023-02,CI/CD,27
+2023-02,Cloud Computing,21
+2023-02,Cloud Security,13
+2023-02,Computer Vision,11
+2023-02,Cryptography,11
+2023-02,Cybersecurity,39
+2023-02,DAX,11
+2023-02,Data Modeling,19
+2023-02,Data Pipelines,19
+2023-02,Data Visualization,28
+2023-02,Data Warehousing,10
+2023-02,Deep Learning,43
+2023-02,Docker,119
+2023-02,ETL,5
+2023-02,Excel,36
+2023-02,FastAPI,29
+2023-02,Firewalls,9
+2023-02,GCP,5
+2023-02,Generative AI,25
+2023-02,Git,39
+2023-02,HTML/CSS,25
+2023-02,JavaScript,25
+2023-02,Kafka,11
+2023-02,Kubernetes,48
+2023-02,LLM,10
+2023-02,Linux,48
+2023-02,MLOps,20
+2023-02,Machine Learning,60
+2023-02,Mathematics,16
+2023-02,Microservices,3
+2023-02,MongoDB,14
+2023-02,NLP,17
+2023-02,Network Security,22
+2023-02,Next.js,12
+2023-02,Node.js,25
+2023-02,Pandas,33
+2023-02,PostgreSQL,26
+2023-02,Power BI,32
+2023-02,Prometheus,8
+2023-02,PyTorch,49
+2023-02,Python,176
+2023-02,R,11
+2023-02,React,25
+2023-02,Reinforcement Learning,9
+2023-02,SIEM,22
+2023-02,SQL,118
+2023-02,Scala,13
+2023-02,Scikit-learn,44
+2023-02,Snowflake,28
+2023-02,Spark,19
+2023-02,Statistics,44
+2023-02,System Architecture,5
+2023-02,Tableau,52
+2023-02,Tailwind CSS,16
+2023-02,TensorFlow,21
+2023-02,Terraform,28
+2023-02,Threat Analysis,12
+2023-02,TypeScript,17
+2023-03,AWS,99
+2023-03,Airflow,10
+2023-03,Azure,37
+2023-03,Bash,37
+2023-03,BigQuery,33
+2023-03,Business Intelligence,7
+2023-03,C++,26
+2023-03,CI/CD,46
+2023-03,Cloud Computing,47
+2023-03,Cloud Security,14
+2023-03,Computer Vision,12
+2023-03,Cryptography,14
+2023-03,Cybersecurity,59
+2023-03,DAX,9
+2023-03,Data Modeling,16
+2023-03,Data Pipelines,16
+2023-03,Data Visualization,31
+2023-03,Data Warehousing,10
+2023-03,Deep Learning,40
+2023-03,Docker,131
+2023-03,ETL,8
+2023-03,Excel,36
+2023-03,FastAPI,25
+2023-03,Firewalls,14
+2023-03,GCP,18
+2023-03,Generative AI,15
+2023-03,Git,32
+2023-03,HTML/CSS,17
+2023-03,JavaScript,17
+2023-03,Kafka,4
+2023-03,Kubernetes,74
+2023-03,LLM,14
+2023-03,Linux,67
+2023-03,MLOps,18
+2023-03,Machine Learning,51
+2023-03,Mathematics,15
+2023-03,Microservices,15
+2023-03,MongoDB,9
+2023-03,NLP,24
+2023-03,Network Security,24
+2023-03,Next.js,13
+2023-03,Node.js,17
+2023-03,Pandas,32
+2023-03,PostgreSQL,15
+2023-03,Power BI,29
+2023-03,Prometheus,19
+2023-03,PyTorch,43
+2023-03,Python,170
+2023-03,R,13
+2023-03,React,17
+2023-03,Reinforcement Learning,9
+2023-03,SIEM,24
+2023-03,SQL,100
+2023-03,Scala,10
+2023-03,Scikit-learn,36
+2023-03,Snowflake,28
+2023-03,Spark,16
+2023-03,Statistics,35
+2023-03,System Architecture,14
+2023-03,Tableau,48
+2023-03,Tailwind CSS,13
+2023-03,TensorFlow,21
+2023-03,Terraform,57
+2023-03,Threat Analysis,19
+2023-03,TypeScript,13
+2023-04,AWS,88
+2023-04,Airflow,12
+2023-04,Azure,34
+2023-04,Bash,26
+2023-04,BigQuery,41
+2023-04,Business Intelligence,15
+2023-04,C++,19
+2023-04,CI/CD,35
+2023-04,Cloud Computing,30
+2023-04,Cloud Security,5
+2023-04,Computer Vision,13
+2023-04,Cryptography,5
+2023-04,Cybersecurity,40
+2023-04,DAX,25
+2023-04,Data Modeling,32
+2023-04,Data Pipelines,17
+2023-04,Data Visualization,44
+2023-04,Data Warehousing,18
+2023-04,Deep Learning,43
+2023-04,Docker,117
+2023-04,ETL,14
+2023-04,Excel,62
+2023-04,FastAPI,27
+2023-04,Firewalls,6
+2023-04,GCP,8
+2023-04,Generative AI,24
+2023-04,Git,33
+2023-04,HTML/CSS,21
+2023-04,JavaScript,21
+2023-04,Kafka,11
+2023-04,Kubernetes,63
+2023-04,LLM,17
+2023-04,Linux,49
+2023-04,MLOps,18
+2023-04,Machine Learning,58
+2023-04,Mathematics,17
+2023-04,Microservices,11
+2023-04,MongoDB,12
+2023-04,NLP,20
+2023-04,Network Security,13
+2023-04,Next.js,8
+2023-04,Node.js,21
+2023-04,Pandas,38
+2023-04,PostgreSQL,22
+2023-04,Power BI,54
+2023-04,Prometheus,13
+2023-04,PyTorch,47
+2023-04,Python,184
+2023-04,R,21
+2023-04,React,21
+2023-04,Reinforcement Learning,10
+2023-04,SIEM,13
+2023-04,SQL,137
+2023-04,Scala,12
+2023-04,Scikit-learn,41
+2023-04,Snowflake,46
+2023-04,Spark,17
+2023-04,Statistics,57
+2023-04,System Architecture,15
+2023-04,Tableau,75
+2023-04,Tailwind CSS,16
+2023-04,TensorFlow,17
+2023-04,Terraform,45
+2023-04,Threat Analysis,8
+2023-04,TypeScript,14
+2023-05,AWS,85
+2023-05,Airflow,13
+2023-05,Azure,25
+2023-05,Bash,37
+2023-05,BigQuery,28
+2023-05,Business Intelligence,7
+2023-05,C++,33
+2023-05,CI/CD,38
+2023-05,Cloud Computing,30
+2023-05,Cloud Security,17
+2023-05,Computer Vision,13
+2023-05,Cryptography,17
+2023-05,Cybersecurity,53
+2023-05,DAX,10
+2023-05,Data Modeling,18
+2023-05,Data Pipelines,17
+2023-05,Data Visualization,23
+2023-05,Data Warehousing,9
+2023-05,Deep Learning,45
+2023-05,Docker,120
+2023-05,ETL,12
+2023-05,Excel,30
+2023-05,FastAPI,27
+2023-05,Firewalls,15
+2023-05,GCP,8
+2023-05,Generative AI,26
+2023-05,Git,38
+2023-05,HTML/CSS,19
+2023-05,JavaScript,19
+2023-05,Kafka,9
+2023-05,Kubernetes,64
+2023-05,LLM,22
+2023-05,Linux,64
+2023-05,MLOps,18
+2023-05,Machine Learning,62
+2023-05,Mathematics,24
+2023-05,Microservices,9
+2023-05,MongoDB,10
+2023-05,NLP,21
+2023-05,Network Security,25
+2023-05,Next.js,10
+2023-05,Node.js,19
+2023-05,Pandas,26
+2023-05,PostgreSQL,20
+2023-05,Power BI,25
+2023-05,Prometheus,16
+2023-05,PyTorch,56
+2023-05,Python,168
+2023-05,R,7
+2023-05,React,19
+2023-05,Reinforcement Learning,10
+2023-05,SIEM,25
+2023-05,SQL,102
+2023-05,Scala,12
+2023-05,Scikit-learn,38
+2023-05,Snowflake,23
+2023-05,Spark,17
+2023-05,Statistics,39
+2023-05,System Architecture,9
+2023-05,Tableau,37
+2023-05,Tailwind CSS,8
+2023-05,TensorFlow,19
+2023-05,Terraform,44
+2023-05,Threat Analysis,15
+2023-05,TypeScript,13
+2023-06,AWS,113
+2023-06,Airflow,14
+2023-06,Azure,29
+2023-06,Bash,35
+2023-06,BigQuery,43
+2023-06,Business Intelligence,14
+2023-06,C++,34
+2023-06,CI/CD,34
+2023-06,Cloud Computing,41
+2023-06,Cloud Security,16
+2023-06,Computer Vision,12
+2023-06,Cryptography,13
+2023-06,Cybersecurity,57
+2023-06,DAX,17
+2023-06,Data Modeling,26
+2023-06,Data Pipelines,24
+2023-06,Data Visualization,36
+2023-06,Data Warehousing,17
+2023-06,Deep Learning,45
+2023-06,Docker,144
+2023-06,ETL,13
+2023-06,Excel,50
+2023-06,FastAPI,28
+2023-06,Firewalls,18
+2023-06,GCP,11
+2023-06,Generative AI,32
+2023-06,Git,37
+2023-06,HTML/CSS,24
+2023-06,JavaScript,24
+2023-06,Kafka,12
+2023-06,Kubernetes,73
+2023-06,LLM,15
+2023-06,Linux,64
+2023-06,MLOps,23
+2023-06,Machine Learning,68
+2023-06,Mathematics,22
+2023-06,Microservices,17
+2023-06,MongoDB,12
+2023-06,NLP,23
+2023-06,Network Security,27
+2023-06,Next.js,12
+2023-06,Node.js,24
+2023-06,Pandas,33
+2023-06,PostgreSQL,24
+2023-06,Power BI,40
+2023-06,Prometheus,15
+2023-06,PyTorch,57
+2023-06,Python,204
+2023-06,R,11
+2023-06,React,24
+2023-06,Reinforcement Learning,11
+2023-06,SIEM,27
+2023-06,SQL,132
+2023-06,Scala,13
+2023-06,Scikit-learn,46
+2023-06,Snowflake,48
+2023-06,Spark,24
+2023-06,Statistics,52
+2023-06,System Architecture,16
+2023-06,Tableau,60
+2023-06,Tailwind CSS,16
+2023-06,TensorFlow,25
+2023-06,Terraform,49
+2023-06,Threat Analysis,17
+2023-06,TypeScript,14
+2023-07,AWS,97
+2023-07,Airflow,15
+2023-07,Azure,25
+2023-07,Bash,35
+2023-07,BigQuery,34
+2023-07,Business Intelligence,12
+2023-07,C++,25
+2023-07,CI/CD,37
+2023-07,Cloud Computing,29
+2023-07,Cloud Security,14
+2023-07,Computer Vision,12
+2023-07,Cryptography,14
+2023-07,Cybersecurity,46
+2023-07,DAX,13
+2023-07,Data Modeling,19
+2023-07,Data Pipelines,25
+2023-07,Data Visualization,24
+2023-07,Data Warehousing,14
+2023-07,Deep Learning,46
+2023-07,Docker,133
+2023-07,ETL,13
+2023-07,Excel,37
+2023-07,FastAPI,32
+2023-07,Firewalls,9
+2023-07,GCP,10
+2023-07,Generative AI,25
+2023-07,Git,44
+2023-07,HTML/CSS,28
+2023-07,JavaScript,28
+2023-07,Kafka,13
+2023-07,Kubernetes,68
+2023-07,LLM,23
+2023-07,Linux,59
+2023-07,MLOps,24
+2023-07,Machine Learning,63
+2023-07,Mathematics,22
+2023-07,Microservices,10
+2023-07,MongoDB,16
+2023-07,NLP,19
+2023-07,Network Security,23
+2023-07,Next.js,18
+2023-07,Node.js,28
+2023-07,Pandas,30
+2023-07,PostgreSQL,36
+2023-07,Power BI,29
+2023-07,Prometheus,16
+2023-07,PyTorch,55
+2023-07,Python,195
+2023-07,R,11
+2023-07,React,28
+2023-07,Reinforcement Learning,15
+2023-07,SIEM,23
+2023-07,SQL,124
+2023-07,Scala,12
+2023-07,Scikit-learn,41
+2023-07,Snowflake,39
+2023-07,Spark,25
+2023-07,Statistics,38
+2023-07,System Architecture,10
+2023-07,Tableau,42
+2023-07,Tailwind CSS,12
+2023-07,TensorFlow,31
+2023-07,Terraform,43
+2023-07,Threat Analysis,7
+2023-07,TypeScript,19
+2023-08,AWS,84
+2023-08,Airflow,11
+2023-08,Azure,28
+2023-08,Bash,35
+2023-08,BigQuery,31
+2023-08,Business Intelligence,11
+2023-08,C++,26
+2023-08,CI/CD,34
+2023-08,Cloud Computing,38
+2023-08,Cloud Security,18
+2023-08,Computer Vision,8
+2023-08,Cryptography,13
+2023-08,Cybersecurity,51
+2023-08,DAX,17
+2023-08,Data Modeling,23
+2023-08,Data Pipelines,19
+2023-08,Data Visualization,31
+2023-08,Data Warehousing,15
+2023-08,Deep Learning,40
+2023-08,Docker,124
+2023-08,ETL,13
+2023-08,Excel,46
+2023-08,FastAPI,30
+2023-08,Firewalls,16
+2023-08,GCP,15
+2023-08,Generative AI,25
+2023-08,Git,37
+2023-08,HTML/CSS,26
+2023-08,JavaScript,26
+2023-08,Kafka,9
+2023-08,Kubernetes,64
+2023-08,LLM,13
+2023-08,Linux,60
+2023-08,MLOps,17
+2023-08,Machine Learning,53
+2023-08,Mathematics,20
+2023-08,Microservices,13
+2023-08,MongoDB,12
+2023-08,NLP,21
+2023-08,Network Security,25
+2023-08,Next.js,14
+2023-08,Node.js,26
+2023-08,Pandas,31
+2023-08,PostgreSQL,27
+2023-08,Power BI,36
+2023-08,Prometheus,14
+2023-08,PyTorch,48
+2023-08,Python,186
+2023-08,R,12
+2023-08,React,26
+2023-08,Reinforcement Learning,11
+2023-08,SIEM,25
+2023-08,SQL,119
+2023-08,Scala,15
+2023-08,Scikit-learn,33
+2023-08,Snowflake,43
+2023-08,Spark,19
+2023-08,Statistics,49
+2023-08,System Architecture,15
+2023-08,Tableau,54
+2023-08,Tailwind CSS,12
+2023-08,TensorFlow,26
+2023-08,Terraform,43
+2023-08,Threat Analysis,14
+2023-08,TypeScript,19
+2023-09,AWS,110
+2023-09,Airflow,15
+2023-09,Azure,39
+2023-09,Bash,35
+2023-09,BigQuery,33
+2023-09,Business Intelligence,8
+2023-09,C++,32
+2023-09,CI/CD,49
+2023-09,Cloud Computing,49
+2023-09,Cloud Security,14
+2023-09,Computer Vision,13
+2023-09,Cryptography,13
+2023-09,Cybersecurity,56
+2023-09,DAX,10
+2023-09,Data Modeling,16
+2023-09,Data Pipelines,23
+2023-09,Data Visualization,29
+2023-09,Data Warehousing,8
+2023-09,Deep Learning,57
+2023-09,Docker,155
+2023-09,ETL,10
+2023-09,Excel,32
+2023-09,FastAPI,33
+2023-09,Firewalls,19
+2023-09,GCP,14
+2023-09,Generative AI,30
+2023-09,Git,39
+2023-09,HTML/CSS,22
+2023-09,JavaScript,22
+2023-09,Kafka,15
+2023-09,Kubernetes,88
+2023-09,LLM,17
+2023-09,Linux,68
+2023-09,MLOps,23
+2023-09,Machine Learning,74
+2023-09,Mathematics,28
+2023-09,Microservices,22
+2023-09,MongoDB,16
+2023-09,NLP,33
+2023-09,Network Security,25
+2023-09,Next.js,12
+2023-09,Node.js,22
+2023-09,Pandas,32
+2023-09,PostgreSQL,25
+2023-09,Power BI,26
+2023-09,Prometheus,19
+2023-09,PyTorch,69
+2023-09,Python,214
+2023-09,R,11
+2023-09,React,22
+2023-09,Reinforcement Learning,16
+2023-09,SIEM,25
+2023-09,SQL,118
+2023-09,Scala,14
+2023-09,Scikit-learn,46
+2023-09,Snowflake,30
+2023-09,Spark,23
+2023-09,Statistics,43
+2023-09,System Architecture,19
+2023-09,Tableau,48
+2023-09,Tailwind CSS,13
+2023-09,TensorFlow,29
+2023-09,Terraform,59
+2023-09,Threat Analysis,12
+2023-09,TypeScript,13
+2023-10,AWS,105
+2023-10,Airflow,9
+2023-10,Azure,31
+2023-10,Bash,38
+2023-10,BigQuery,37
+2023-10,Business Intelligence,14
+2023-10,C++,38
+2023-10,CI/CD,38
+2023-10,Cloud Computing,42
+2023-10,Cloud Security,16
+2023-10,Computer Vision,18
+2023-10,Cryptography,19
+2023-10,Cybersecurity,53
+2023-10,DAX,11
+2023-10,Data Modeling,26
+2023-10,Data Pipelines,17
+2023-10,Data Visualization,36
+2023-10,Data Warehousing,14
+2023-10,Deep Learning,59
+2023-10,Docker,150
+2023-10,ETL,17
+2023-10,Excel,50
+2023-10,FastAPI,31
+2023-10,Firewalls,19
+2023-10,GCP,18
+2023-10,Generative AI,37
+2023-10,Git,29
+2023-10,HTML/CSS,22
+2023-10,JavaScript,22
+2023-10,Kafka,11
+2023-10,Kubernetes,77
+2023-10,LLM,25
+2023-10,Linux,70
+2023-10,MLOps,31
+2023-10,Machine Learning,81
+2023-10,Mathematics,25
+2023-10,Microservices,20
+2023-10,MongoDB,15
+2023-10,NLP,29
+2023-10,Network Security,30
+2023-10,Next.js,15
+2023-10,Node.js,22
+2023-10,Pandas,41
+2023-10,PostgreSQL,22
+2023-10,Power BI,42
+2023-10,Prometheus,17
+2023-10,PyTorch,67
+2023-10,Python,221
+2023-10,R,13
+2023-10,React,22
+2023-10,Reinforcement Learning,13
+2023-10,SIEM,30
+2023-10,SQL,136
+2023-10,Scala,10
+2023-10,Scikit-learn,56
+2023-10,Snowflake,43
+2023-10,Spark,17
+2023-10,Statistics,63
+2023-10,System Architecture,18
+2023-10,Tableau,66
+2023-10,Tailwind CSS,11
+2023-10,TensorFlow,35
+2023-10,Terraform,49
+2023-10,Threat Analysis,16
+2023-10,TypeScript,16
+2023-11,AWS,98
+2023-11,Airflow,12
+2023-11,Azure,30
+2023-11,Bash,38
+2023-11,BigQuery,49
+2023-11,Business Intelligence,24
+2023-11,C++,26
+2023-11,CI/CD,41
+2023-11,Cloud Computing,39
+2023-11,Cloud Security,14
+2023-11,Computer Vision,10
+2023-11,Cryptography,14
+2023-11,Cybersecurity,53
+2023-11,DAX,13
+2023-11,Data Modeling,18
+2023-11,Data Pipelines,20
+2023-11,Data Visualization,41
+2023-11,Data Warehousing,9
+2023-11,Deep Learning,36
+2023-11,Docker,139
+2023-11,ETL,10
+2023-11,Excel,52
+2023-11,FastAPI,26
+2023-11,Firewalls,13
+2023-11,GCP,12
+2023-11,Generative AI,20
+2023-11,Git,36
+2023-11,HTML/CSS,21
+2023-11,JavaScript,21
+2023-11,Kafka,9
+2023-11,Kubernetes,75
+2023-11,LLM,14
+2023-11,Linux,63
+2023-11,MLOps,21
+2023-11,Machine Learning,54
+2023-11,Mathematics,16
+2023-11,Microservices,14
+2023-11,MongoDB,14
+2023-11,NLP,24
+2023-11,Network Security,21
+2023-11,Next.js,14
+2023-11,Node.js,21
+2023-11,Pandas,37
+2023-11,PostgreSQL,27
+2023-11,Power BI,37
+2023-11,Prometheus,17
+2023-11,PyTorch,46
+2023-11,Python,188
+2023-11,R,26
+2023-11,React,21
+2023-11,Reinforcement Learning,10
+2023-11,SIEM,21
+2023-11,SQL,127
+2023-11,Scala,14
+2023-11,Scikit-learn,38
+2023-11,Snowflake,47
+2023-11,Spark,20
+2023-11,Statistics,54
+2023-11,System Architecture,10
+2023-11,Tableau,56
+2023-11,Tailwind CSS,15
+2023-11,TensorFlow,23
+2023-11,Terraform,50
+2023-11,Threat Analysis,18
+2023-11,TypeScript,11
+2023-12,AWS,100
+2023-12,Airflow,14
+2023-12,Azure,26
+2023-12,Bash,31
+2023-12,BigQuery,43
+2023-12,Business Intelligence,11
+2023-12,C++,32
+2023-12,CI/CD,39
+2023-12,Cloud Computing,39
+2023-12,Cloud Security,12
+2023-12,Computer Vision,11
+2023-12,Cryptography,12
+2023-12,Cybersecurity,53
+2023-12,DAX,11
+2023-12,Data Modeling,18
+2023-12,Data Pipelines,27
+2023-12,Data Visualization,33
+2023-12,Data Warehousing,11
+2023-12,Deep Learning,45
+2023-12,Docker,131
+2023-12,ETL,10
+2023-12,Excel,41
+2023-12,FastAPI,26
+2023-12,Firewalls,13
+2023-12,GCP,12
+2023-12,Generative AI,24
+2023-12,Git,35
+2023-12,HTML/CSS,17
+2023-12,JavaScript,17
+2023-12,Kafka,14
+2023-12,Kubernetes,72
+2023-12,LLM,14
+2023-12,Linux,53
+2023-12,MLOps,19
+2023-12,Machine Learning,59
+2023-12,Mathematics,22
+2023-12,Microservices,12
+2023-12,MongoDB,8
+2023-12,NLP,22
+2023-12,Network Security,22
+2023-12,Next.js,12
+2023-12,Node.js,17
+2023-12,Pandas,32
+2023-12,PostgreSQL,22
+2023-12,Power BI,34
+2023-12,Prometheus,15
+2023-12,PyTorch,54
+2023-12,Python,179
+2023-12,R,17
+2023-12,React,17
+2023-12,Reinforcement Learning,11
+2023-12,SIEM,22
+2023-12,SQL,116
+2023-12,Scala,18
+2023-12,Scikit-learn,37
+2023-12,Snowflake,33
+2023-12,Spark,27
+2023-12,Statistics,38
+2023-12,System Architecture,9
+2023-12,Tableau,54
+2023-12,Tailwind CSS,11
+2023-12,TensorFlow,28
+2023-12,Terraform,44
+2023-12,Threat Analysis,12
+2023-12,TypeScript,15
+2024-01,AWS,104
+2024-01,Airflow,15
+2024-01,Azure,30
+2024-01,Bash,31
+2024-01,BigQuery,57
+2024-01,Business Intelligence,15
+2024-01,C++,33
+2024-01,CI/CD,40
+2024-01,Cloud Computing,34
+2024-01,Cloud Security,15
+2024-01,Computer Vision,13
+2024-01,Cryptography,11
+2024-01,Cybersecurity,52
+2024-01,DAX,17
+2024-01,Data Modeling,23
+2024-01,Data Pipelines,28
+2024-01,Data Visualization,41
+2024-01,Data Warehousing,16
+2024-01,Deep Learning,47
+2024-01,Docker,149
+2024-01,ETL,11
+2024-01,Excel,48
+2024-01,FastAPI,35
+2024-01,Firewalls,12
+2024-01,GCP,15
+2024-01,Generative AI,33
+2024-01,Git,42
+2024-01,HTML/CSS,28
+2024-01,JavaScript,28
+2024-01,Kafka,21
+2024-01,Kubernetes,82
+2024-01,LLM,15
+2024-01,Linux,61
+2024-01,MLOps,22
+2024-01,Machine Learning,68
+2024-01,Mathematics,23
+2024-01,Microservices,11
+2024-01,MongoDB,17
+2024-01,NLP,30
+2024-01,Network Security,22
+2024-01,Next.js,16
+2024-01,Node.js,28
+2024-01,Pandas,38
+2024-01,PostgreSQL,35
+2024-01,Power BI,38
+2024-01,Prometheus,15
+2024-01,PyTorch,55
+2024-01,Python,214
+2024-01,R,18
+2024-01,React,28
+2024-01,Reinforcement Learning,15
+2024-01,SIEM,22
+2024-01,SQL,142
+2024-01,Scala,17
+2024-01,Scikit-learn,45
+2024-01,Snowflake,52
+2024-01,Spark,28
+2024-01,Statistics,51
+2024-01,System Architecture,14
+2024-01,Tableau,59
+2024-01,Tailwind CSS,15
+2024-01,TensorFlow,29
+2024-01,Terraform,48
+2024-01,Threat Analysis,13
+2024-01,TypeScript,24
+2024-02,AWS,106
+2024-02,Airflow,8
+2024-02,Azure,31
+2024-02,Bash,39
+2024-02,BigQuery,43
+2024-02,Business Intelligence,14
+2024-02,C++,41
+2024-02,CI/CD,34
+2024-02,Cloud Computing,45
+2024-02,Cloud Security,24
+2024-02,Computer Vision,9
+2024-02,Cryptography,20
+2024-02,Cybersecurity,65
+2024-02,DAX,18
+2024-02,Data Modeling,26
+2024-02,Data Pipelines,22
+2024-02,Data Visualization,37
+2024-02,Data Warehousing,15
+2024-02,Deep Learning,60
+2024-02,Docker,153
+2024-02,ETL,18
+2024-02,Excel,47
+2024-02,FastAPI,33
+2024-02,Firewalls,16
+2024-02,GCP,18
+2024-02,Generative AI,30
+2024-02,Git,28
+2024-02,HTML/CSS,18
+2024-02,JavaScript,18
+2024-02,Kafka,13
+2024-02,Kubernetes,76
+2024-02,LLM,17
+2024-02,Linux,62
+2024-02,MLOps,29
+2024-02,Machine Learning,78
+2024-02,Mathematics,24
+2024-02,Microservices,21
+2024-02,MongoDB,11
+2024-02,NLP,25
+2024-02,Network Security,32
+2024-02,Next.js,8
+2024-02,Node.js,18
+2024-02,Pandas,38
+2024-02,PostgreSQL,27
+2024-02,Power BI,36
+2024-02,Prometheus,8
+2024-02,PyTorch,67
+2024-02,Python,217
+2024-02,R,10
+2024-02,React,18
+2024-02,Reinforcement Learning,16
+2024-02,SIEM,32
+2024-02,SQL,136
+2024-02,Scala,13
+2024-02,Scikit-learn,54
+2024-02,Snowflake,37
+2024-02,Spark,22
+2024-02,Statistics,54
+2024-02,System Architecture,18
+2024-02,Tableau,60
+2024-02,Tailwind CSS,8
+2024-02,TensorFlow,31
+2024-02,Terraform,48
+2024-02,Threat Analysis,21
+2024-02,TypeScript,18
+2024-03,AWS,121
+2024-03,Airflow,20
+2024-03,Azure,40
+2024-03,Bash,35
+2024-03,BigQuery,43
+2024-03,Business Intelligence,12
+2024-03,C++,36
+2024-03,CI/CD,48
+2024-03,Cloud Computing,44
+2024-03,Cloud Security,11
+2024-03,Computer Vision,11
+2024-03,Cryptography,12
+2024-03,Cybersecurity,62
+2024-03,DAX,22
+2024-03,Data Modeling,31
+2024-03,Data Pipelines,26
+2024-03,Data Visualization,30
+2024-03,Data Warehousing,20
+2024-03,Deep Learning,50
+2024-03,Docker,168
+2024-03,ETL,18
+2024-03,Excel,50
+2024-03,FastAPI,38
+2024-03,Firewalls,13
+2024-03,GCP,21
+2024-03,Generative AI,27
+2024-03,Git,50
+2024-03,HTML/CSS,28
+2024-03,JavaScript,28
+2024-03,Kafka,18
+2024-03,Kubernetes,90
+2024-03,LLM,22
+2024-03,Linux,69
+2024-03,MLOps,26
+2024-03,Machine Learning,68
+2024-03,Mathematics,20
+2024-03,Microservices,18
+2024-03,MongoDB,12
+2024-03,NLP,27
+2024-03,Network Security,21
+2024-03,Next.js,18
+2024-03,Node.js,28
+2024-03,Pandas,31
+2024-03,PostgreSQL,31
+2024-03,Power BI,44
+2024-03,Prometheus,19
+2024-03,PyTorch,57
+2024-03,Python,212
+2024-03,R,12
+2024-03,React,28
+2024-03,Reinforcement Learning,11
+2024-03,SIEM,21
+2024-03,SQL,147
+2024-03,Scala,15
+2024-03,Scikit-learn,48
+2024-03,Snowflake,48
+2024-03,Spark,26
+2024-03,Statistics,58
+2024-03,System Architecture,15
+2024-03,Tableau,67
+2024-03,Tailwind CSS,22
+2024-03,TensorFlow,30
+2024-03,Terraform,58
+2024-03,Threat Analysis,16
+2024-03,TypeScript,20
+2024-04,AWS,114
+2024-04,Airflow,14
+2024-04,Azure,29
+2024-04,Bash,36
+2024-04,BigQuery,60
+2024-04,Business Intelligence,17
+2024-04,C++,49
+2024-04,CI/CD,45
+2024-04,Cloud Computing,41
+2024-04,Cloud Security,24
+2024-04,Computer Vision,19
+2024-04,Cryptography,26
+2024-04,Cybersecurity,71
+2024-04,DAX,13
+2024-04,Data Modeling,20
+2024-04,Data Pipelines,29
+2024-04,Data Visualization,47
+2024-04,Data Warehousing,12
+2024-04,Deep Learning,67
+2024-04,Docker,160
+2024-04,ETL,13
+2024-04,Excel,49
+2024-04,FastAPI,29
+2024-04,Firewalls,18
+2024-04,GCP,14
+2024-04,Generative AI,37
+2024-04,Git,38
+2024-04,HTML/CSS,23
+2024-04,JavaScript,23
+2024-04,Kafka,18
+2024-04,Kubernetes,84
+2024-04,LLM,22
+2024-04,Linux,77
+2024-04,MLOps,24
+2024-04,Machine Learning,83
+2024-04,Mathematics,36
+2024-04,Microservices,19
+2024-04,MongoDB,13
+2024-04,NLP,37
+2024-04,Network Security,36
+2024-04,Next.js,17
+2024-04,Node.js,23
+2024-04,Pandas,40
+2024-04,PostgreSQL,30
+2024-04,Power BI,39
+2024-04,Prometheus,19
+2024-04,PyTorch,74
+2024-04,Python,246
+2024-04,R,21
+2024-04,React,23
+2024-04,Reinforcement Learning,24
+2024-04,SIEM,36
+2024-04,SQL,138
+2024-04,Scala,12
+2024-04,Scikit-learn,47
+2024-04,Snowflake,50
+2024-04,Spark,29
+2024-04,Statistics,60
+2024-04,System Architecture,17
+2024-04,Tableau,63
+2024-04,Tailwind CSS,15
+2024-04,TensorFlow,37
+2024-04,Terraform,51
+2024-04,Threat Analysis,27
+2024-04,TypeScript,16
+2024-05,AWS,110
+2024-05,Airflow,23
+2024-05,Azure,26
+2024-05,Bash,27
+2024-05,BigQuery,45
+2024-05,Business Intelligence,17
+2024-05,C++,35
+2024-05,CI/CD,32
+2024-05,Cloud Computing,36
+2024-05,Cloud Security,10
+2024-05,Computer Vision,19
+2024-05,Cryptography,12
+2024-05,Cybersecurity,48
+2024-05,DAX,17
+2024-05,Data Modeling,24
+2024-05,Data Pipelines,35
+2024-05,Data Visualization,39
+2024-05,Data Warehousing,16
+2024-05,Deep Learning,66
+2024-05,Docker,152
+2024-05,ETL,19
+2024-05,Excel,49
+2024-05,FastAPI,38
+2024-05,Firewalls,14
+2024-05,GCP,14
+2024-05,Generative AI,39
+2024-05,Git,33
+2024-05,HTML/CSS,18
+2024-05,JavaScript,18
+2024-05,Kafka,23
+2024-05,Kubernetes,78
+2024-05,LLM,18
+2024-05,Linux,53
+2024-05,MLOps,32
+2024-05,Machine Learning,79
+2024-05,Mathematics,23
+2024-05,Microservices,10
+2024-05,MongoDB,11
+2024-05,NLP,31
+2024-05,Network Security,20
+2024-05,Next.js,13
+2024-05,Node.js,18
+2024-05,Pandas,41
+2024-05,PostgreSQL,34
+2024-05,Power BI,42
+2024-05,Prometheus,12
+2024-05,PyTorch,71
+2024-05,Python,223
+2024-05,R,14
+2024-05,React,18
+2024-05,Reinforcement Learning,20
+2024-05,SIEM,20
+2024-05,SQL,146
+2024-05,Scala,25
+2024-05,Scikit-learn,56
+2024-05,Snowflake,58
+2024-05,Spark,35
+2024-05,Statistics,53
+2024-05,System Architecture,10
+2024-05,Tableau,63
+2024-05,Tailwind CSS,8
+2024-05,TensorFlow,37
+2024-05,Terraform,40
+2024-05,Threat Analysis,13
+2024-05,TypeScript,16
+2024-06,AWS,96
+2024-06,Airflow,13
+2024-06,Azure,24
+2024-06,Bash,33
+2024-06,BigQuery,40
+2024-06,Business Intelligence,19
+2024-06,C++,50
+2024-06,CI/CD,32
+2024-06,Cloud Computing,25
+2024-06,Cloud Security,18
+2024-06,Computer Vision,18
+2024-06,Cryptography,13
+2024-06,Cybersecurity,50
+2024-06,DAX,15
+2024-06,Data Modeling,17
+2024-06,Data Pipelines,21
+2024-06,Data Visualization,39
+2024-06,Data Warehousing,13
+2024-06,Deep Learning,65
+2024-06,Docker,153
+2024-06,ETL,9
+2024-06,Excel,49
+2024-06,FastAPI,55
+2024-06,Firewalls,17
+2024-06,GCP,14
+2024-06,Generative AI,37
+2024-06,Git,46
+2024-06,HTML/CSS,34
+2024-06,JavaScript,34
+2024-06,Kafka,15
+2024-06,Kubernetes,79
+2024-06,LLM,27
+2024-06,Linux,56
+2024-06,MLOps,40
+2024-06,Machine Learning,79
+2024-06,Mathematics,25
+2024-06,Microservices,15
+2024-06,MongoDB,19
+2024-06,NLP,20
+2024-06,Network Security,26
+2024-06,Next.js,16
+2024-06,Node.js,34
+2024-06,Pandas,34
+2024-06,PostgreSQL,36
+2024-06,Power BI,35
+2024-06,Prometheus,13
+2024-06,PyTorch,78
+2024-06,Python,223
+2024-06,R,22
+2024-06,React,34
+2024-06,Reinforcement Learning,17
+2024-06,SIEM,26
+2024-06,SQL,151
+2024-06,Scala,12
+2024-06,Scikit-learn,54
+2024-06,Snowflake,42
+2024-06,Spark,21
+2024-06,Statistics,46
+2024-06,System Architecture,11
+2024-06,Tableau,60
+2024-06,Tailwind CSS,21
+2024-06,TensorFlow,44
+2024-06,Terraform,39
+2024-06,Threat Analysis,13
+2024-06,TypeScript,28
+2024-07,AWS,118
+2024-07,Airflow,19
+2024-07,Azure,26
+2024-07,Bash,42
+2024-07,BigQuery,57
+2024-07,Business Intelligence,28
+2024-07,C++,55
+2024-07,CI/CD,31
+2024-07,Cloud Computing,34
+2024-07,Cloud Security,19
+2024-07,Computer Vision,25
+2024-07,Cryptography,18
+2024-07,Cybersecurity,57
+2024-07,DAX,18
+2024-07,Data Modeling,26
+2024-07,Data Pipelines,25
+2024-07,Data Visualization,59
+2024-07,Data Warehousing,18
+2024-07,Deep Learning,83
+2024-07,Docker,172
+2024-07,ETL,14
+2024-07,Excel,67
+2024-07,FastAPI,54
+2024-07,Firewalls,19
+2024-07,GCP,13
+2024-07,Generative AI,52
+2024-07,Git,57
+2024-07,HTML/CSS,39
+2024-07,JavaScript,39
+2024-07,Kafka,16
+2024-07,Kubernetes,80
+2024-07,LLM,32
+2024-07,Linux,67
+2024-07,MLOps,36
+2024-07,Machine Learning,104
+2024-07,Mathematics,38
+2024-07,Microservices,11
+2024-07,MongoDB,25
+2024-07,NLP,48
+2024-07,Network Security,33
+2024-07,Next.js,19
+2024-07,Node.js,39
+2024-07,Pandas,52
+2024-07,PostgreSQL,42
+2024-07,Power BI,53
+2024-07,Prometheus,12
+2024-07,PyTorch,93
+2024-07,Python,276
+2024-07,R,25
+2024-07,React,39
+2024-07,Reinforcement Learning,24
+2024-07,SIEM,33
+2024-07,SQL,186
+2024-07,Scala,14
+2024-07,Scikit-learn,66
+2024-07,Snowflake,56
+2024-07,Spark,25
+2024-07,Statistics,85
+2024-07,System Architecture,10
+2024-07,Tableau,86
+2024-07,Tailwind CSS,24
+2024-07,TensorFlow,46
+2024-07,Terraform,42
+2024-07,Threat Analysis,17
+2024-07,TypeScript,29
+2024-08,AWS,113
+2024-08,Airflow,15
+2024-08,Azure,29
+2024-08,Bash,41
+2024-08,BigQuery,38
+2024-08,Business Intelligence,17
+2024-08,C++,35
+2024-08,CI/CD,37
+2024-08,Cloud Computing,37
+2024-08,Cloud Security,17
+2024-08,Computer Vision,16
+2024-08,Cryptography,15
+2024-08,Cybersecurity,56
+2024-08,DAX,20
+2024-08,Data Modeling,27
+2024-08,Data Pipelines,25
+2024-08,Data Visualization,41
+2024-08,Data Warehousing,16
+2024-08,Deep Learning,56
+2024-08,Docker,153
+2024-08,ETL,18
+2024-08,Excel,50
+2024-08,FastAPI,37
+2024-08,Firewalls,20
+2024-08,GCP,15
+2024-08,Generative AI,37
+2024-08,Git,42
+2024-08,HTML/CSS,23
+2024-08,JavaScript,23
+2024-08,Kafka,14
+2024-08,Kubernetes,74
+2024-08,LLM,25
+2024-08,Linux,68
+2024-08,MLOps,28
+2024-08,Machine Learning,75
+2024-08,Mathematics,21
+2024-08,Microservices,12
+2024-08,MongoDB,13
+2024-08,NLP,36
+2024-08,Network Security,27
+2024-08,Next.js,12
+2024-08,Node.js,23
+2024-08,Pandas,43
+2024-08,PostgreSQL,32
+2024-08,Power BI,40
+2024-08,Prometheus,20
+2024-08,PyTorch,67
+2024-08,Python,227
+2024-08,R,15
+2024-08,React,23
+2024-08,Reinforcement Learning,13
+2024-08,SIEM,27
+2024-08,SQL,146
+2024-08,Scala,17
+2024-08,Scikit-learn,54
+2024-08,Snowflake,42
+2024-08,Spark,25
+2024-08,Statistics,55
+2024-08,System Architecture,12
+2024-08,Tableau,69
+2024-08,Tailwind CSS,16
+2024-08,TensorFlow,39
+2024-08,Terraform,46
+2024-08,Threat Analysis,14
+2024-08,TypeScript,17
+2024-09,AWS,112
+2024-09,Airflow,9
+2024-09,Azure,25
+2024-09,Bash,35
+2024-09,BigQuery,45
+2024-09,Business Intelligence,18
+2024-09,C++,40
+2024-09,CI/CD,41
+2024-09,Cloud Computing,38
+2024-09,Cloud Security,17
+2024-09,Computer Vision,17
+2024-09,Cryptography,13
+2024-09,Cybersecurity,64
+2024-09,DAX,9
+2024-09,Data Modeling,24
+2024-09,Data Pipelines,21
+2024-09,Data Visualization,54
+2024-09,Data Warehousing,15
+2024-09,Deep Learning,59
+2024-09,Docker,156
+2024-09,ETL,19
+2024-09,Excel,55
+2024-09,FastAPI,43
+2024-09,Firewalls,14
+2024-09,GCP,14
+2024-09,Generative AI,42
+2024-09,Git,43
+2024-09,HTML/CSS,27
+2024-09,JavaScript,27
+2024-09,Kafka,15
+2024-09,Kubernetes,79
+2024-09,LLM,30
+2024-09,Linux,68
+2024-09,MLOps,29
+2024-09,Machine Learning,83
+2024-09,Mathematics,28
+2024-09,Microservices,13
+2024-09,MongoDB,13
+2024-09,NLP,35
+2024-09,Network Security,26
+2024-09,Next.js,12
+2024-09,Node.js,27
+2024-09,Pandas,48
+2024-09,PostgreSQL,33
+2024-09,Power BI,42
+2024-09,Prometheus,21
+2024-09,PyTorch,82
+2024-09,Python,229
+2024-09,R,20
+2024-09,React,27
+2024-09,Reinforcement Learning,21
+2024-09,SIEM,26
+2024-09,SQL,147
+2024-09,Scala,14
+2024-09,Scikit-learn,55
+2024-09,Snowflake,47
+2024-09,Spark,21
+2024-09,Statistics,59
+2024-09,System Architecture,14
+2024-09,Tableau,76
+2024-09,Tailwind CSS,19
+2024-09,TensorFlow,36
+2024-09,Terraform,49
+2024-09,Threat Analysis,17
+2024-09,TypeScript,19
+2024-10,AWS,108
+2024-10,Airflow,13
+2024-10,Azure,29
+2024-10,Bash,28
+2024-10,BigQuery,48
+2024-10,Business Intelligence,15
+2024-10,C++,38
+2024-10,CI/CD,36
+2024-10,Cloud Computing,33
+2024-10,Cloud Security,11
+2024-10,Computer Vision,23
+2024-10,Cryptography,13
+2024-10,Cybersecurity,51
+2024-10,DAX,12
+2024-10,Data Modeling,25
+2024-10,Data Pipelines,23
+2024-10,Data Visualization,41
+2024-10,Data Warehousing,14
+2024-10,Deep Learning,65
+2024-10,Docker,129
+2024-10,ETL,14
+2024-10,Excel,50
+2024-10,FastAPI,34
+2024-10,Firewalls,9
+2024-10,GCP,10
+2024-10,Generative AI,42
+2024-10,Git,39
+2024-10,HTML/CSS,21
+2024-10,JavaScript,21
+2024-10,Kafka,16
+2024-10,Kubernetes,67
+2024-10,LLM,26
+2024-10,Linux,59
+2024-10,MLOps,22
+2024-10,Machine Learning,83
+2024-10,Mathematics,32
+2024-10,Microservices,9
+2024-10,MongoDB,13
+2024-10,NLP,41
+2024-10,Network Security,21
+2024-10,Next.js,14
+2024-10,Node.js,21
+2024-10,Pandas,46
+2024-10,PostgreSQL,26
+2024-10,Power BI,40
+2024-10,Prometheus,16
+2024-10,PyTorch,73
+2024-10,Python,215
+2024-10,R,13
+2024-10,React,21
+2024-10,Reinforcement Learning,21
+2024-10,SIEM,21
+2024-10,SQL,138
+2024-10,Scala,18
+2024-10,Scikit-learn,51
+2024-10,Snowflake,48
+2024-10,Spark,23
+2024-10,Statistics,63
+2024-10,System Architecture,10
+2024-10,Tableau,68
+2024-10,Tailwind CSS,11
+2024-10,TensorFlow,33
+2024-10,Terraform,42
+2024-10,Threat Analysis,13
+2024-10,TypeScript,14
+2024-11,AWS,133
+2024-11,Airflow,20
+2024-11,Azure,40
+2024-11,Bash,38
+2024-11,BigQuery,61
+2024-11,Business Intelligence,21
+2024-11,C++,42
+2024-11,CI/CD,48
+2024-11,Cloud Computing,44
+2024-11,Cloud Security,22
+2024-11,Computer Vision,19
+2024-11,Cryptography,17
+2024-11,Cybersecurity,64
+2024-11,DAX,15
+2024-11,Data Modeling,20
+2024-11,Data Pipelines,29
+2024-11,Data Visualization,53
+2024-11,Data Warehousing,10
+2024-11,Deep Learning,71
+2024-11,Docker,189
+2024-11,ETL,13
+2024-11,Excel,54
+2024-11,FastAPI,47
+2024-11,Firewalls,22
+2024-11,GCP,18
+2024-11,Generative AI,36
+2024-11,Git,51
+2024-11,HTML/CSS,32
+2024-11,JavaScript,32
+2024-11,Kafka,21
+2024-11,Kubernetes,96
+2024-11,LLM,21
+2024-11,Linux,71
+2024-11,MLOps,28
+2024-11,Machine Learning,89
+2024-11,Mathematics,28
+2024-11,Microservices,21
+2024-11,MongoDB,16
+2024-11,NLP,30
+2024-11,Network Security,31
+2024-11,Next.js,25
+2024-11,Node.js,32
+2024-11,Pandas,52
+2024-11,PostgreSQL,39
+2024-11,Power BI,38
+2024-11,Prometheus,21
+2024-11,PyTorch,79
+2024-11,Python,261
+2024-11,R,24
+2024-11,React,32
+2024-11,Reinforcement Learning,21
+2024-11,SIEM,31
+2024-11,SQL,170
+2024-11,Scala,23
+2024-11,Scikit-learn,61
+2024-11,Snowflake,60
+2024-11,Spark,29
+2024-11,Statistics,74
+2024-11,System Architecture,17
+2024-11,Tableau,77
+2024-11,Tailwind CSS,20
+2024-11,TensorFlow,40
+2024-11,Terraform,55
+2024-11,Threat Analysis,21
+2024-11,TypeScript,25
+2024-12,AWS,142
+2024-12,Airflow,21
+2024-12,Azure,50
+2024-12,Bash,41
+2024-12,BigQuery,59
+2024-12,Business Intelligence,17
+2024-12,C++,48
+2024-12,CI/CD,56
+2024-12,Cloud Computing,55
+2024-12,Cloud Security,16
+2024-12,Computer Vision,26
+2024-12,Cryptography,16
+2024-12,Cybersecurity,70
+2024-12,DAX,21
+2024-12,Data Modeling,29
+2024-12,Data Pipelines,31
+2024-12,Data Visualization,42
+2024-12,Data Warehousing,16
+2024-12,Deep Learning,76
+2024-12,Docker,192
+2024-12,ETL,20
+2024-12,Excel,53
+2024-12,FastAPI,43
+2024-12,Firewalls,20
+2024-12,GCP,23
+2024-12,Generative AI,48
+2024-12,Git,42
+2024-12,HTML/CSS,24
+2024-12,JavaScript,24
+2024-12,Kafka,16
+2024-12,Kubernetes,104
+2024-12,LLM,32
+2024-12,Linux,79
+2024-12,MLOps,33
+2024-12,Machine Learning,96
+2024-12,Mathematics,36
+2024-12,Microservices,29
+2024-12,MongoDB,13
+2024-12,NLP,36
+2024-12,Network Security,26
+2024-12,Next.js,16
+2024-12,Node.js,24
+2024-12,Pandas,43
+2024-12,PostgreSQL,29
+2024-12,Power BI,46
+2024-12,Prometheus,17
+2024-12,PyTorch,87
+2024-12,Python,266
+2024-12,R,17
+2024-12,React,24
+2024-12,Reinforcement Learning,20
+2024-12,SIEM,26
+2024-12,SQL,162
+2024-12,Scala,19
+2024-12,Scikit-learn,60
+2024-12,Snowflake,65
+2024-12,Spark,31
+2024-12,Statistics,64
+2024-12,System Architecture,32
+2024-12,Tableau,72
+2024-12,Tailwind CSS,16
+2024-12,TensorFlow,49
+2024-12,Terraform,67
+2024-12,Threat Analysis,18
+2024-12,TypeScript,18
+2025-01,AWS,122
+2025-01,Airflow,27
+2025-01,Azure,37
+2025-01,Bash,40
+2025-01,BigQuery,55
+2025-01,Business Intelligence,27
+2025-01,C++,41
+2025-01,CI/CD,45
+2025-01,Cloud Computing,49
+2025-01,Cloud Security,16
+2025-01,Computer Vision,18
+2025-01,Cryptography,24
+2025-01,Cybersecurity,71
+2025-01,DAX,12
+2025-01,Data Modeling,19
+2025-01,Data Pipelines,32
+2025-01,Data Visualization,45
+2025-01,Data Warehousing,13
+2025-01,Deep Learning,59
+2025-01,Docker,166
+2025-01,ETL,10
+2025-01,Excel,51
+2025-01,FastAPI,43
+2025-01,Firewalls,17
+2025-01,GCP,16
+2025-01,Generative AI,41
+2025-01,Git,45
+2025-01,HTML/CSS,26
+2025-01,JavaScript,26
+2025-01,Kafka,23
+2025-01,Kubernetes,95
+2025-01,LLM,26
+2025-01,Linux,81
+2025-01,MLOps,28
+2025-01,Machine Learning,78
+2025-01,Mathematics,29
+2025-01,Microservices,16
+2025-01,MongoDB,16
+2025-01,NLP,32
+2025-01,Network Security,30
+2025-01,Next.js,22
+2025-01,Node.js,26
+2025-01,Pandas,44
+2025-01,PostgreSQL,33
+2025-01,Power BI,43
+2025-01,Prometheus,22
+2025-01,PyTorch,71
+2025-01,Python,244
+2025-01,R,21
+2025-01,React,26
+2025-01,Reinforcement Learning,20
+2025-01,SIEM,30
+2025-01,SQL,153
+2025-01,Scala,19
+2025-01,Scikit-learn,49
+2025-01,Snowflake,54
+2025-01,Spark,32
+2025-01,Statistics,54
+2025-01,System Architecture,14
+2025-01,Tableau,64
+2025-01,Tailwind CSS,17
+2025-01,TensorFlow,37
+2025-01,Terraform,56
+2025-01,Threat Analysis,17
+2025-01,TypeScript,21
+2025-02,AWS,133
+2025-02,Airflow,19
+2025-02,Azure,43
+2025-02,Bash,41
+2025-02,BigQuery,54
+2025-02,Business Intelligence,19
+2025-02,C++,53
+2025-02,CI/CD,58
+2025-02,Cloud Computing,52
+2025-02,Cloud Security,15
+2025-02,Computer Vision,28
+2025-02,Cryptography,16
+2025-02,Cybersecurity,70
+2025-02,DAX,29
+2025-02,Data Modeling,36
+2025-02,Data Pipelines,31
+2025-02,Data Visualization,48
+2025-02,Data Warehousing,25
+2025-02,Deep Learning,81
+2025-02,Docker,185
+2025-02,ETL,21
+2025-02,Excel,66
+2025-02,FastAPI,45
+2025-02,Firewalls,17
+2025-02,GCP,19
+2025-02,Generative AI,49
+2025-02,Git,44
+2025-02,HTML/CSS,21
+2025-02,JavaScript,21
+2025-02,Kafka,20
+2025-02,Kubernetes,108
+2025-02,LLM,38
+2025-02,Linux,83
+2025-02,MLOps,34
+2025-02,Machine Learning,100
+2025-02,Mathematics,39
+2025-02,Microservices,18
+2025-02,MongoDB,16
+2025-02,NLP,46
+2025-02,Network Security,27
+2025-02,Next.js,14
+2025-02,Node.js,21
+2025-02,Pandas,44
+2025-02,PostgreSQL,39
+2025-02,Power BI,51
+2025-02,Prometheus,22
+2025-02,PyTorch,92
+2025-02,Python,277
+2025-02,R,22
+2025-02,React,21
+2025-02,Reinforcement Learning,27
+2025-02,SIEM,27
+2025-02,SQL,168
+2025-02,Scala,23
+2025-02,Scikit-learn,61
+2025-02,Snowflake,64
+2025-02,Spark,31
+2025-02,Statistics,75
+2025-02,System Architecture,19
+2025-02,Tableau,82
+2025-02,Tailwind CSS,14
+2025-02,TensorFlow,42
+2025-02,Terraform,64
+2025-02,Threat Analysis,18
+2025-02,TypeScript,17
+2025-03,AWS,129
+2025-03,Airflow,10
+2025-03,Azure,46
+2025-03,Bash,46
+2025-03,BigQuery,52
+2025-03,Business Intelligence,21
+2025-03,C++,41
+2025-03,CI/CD,60
+2025-03,Cloud Computing,59
+2025-03,Cloud Security,20
+2025-03,Computer Vision,22
+2025-03,Cryptography,15
+2025-03,Cybersecurity,75
+2025-03,DAX,17
+2025-03,Data Modeling,29
+2025-03,Data Pipelines,20
+2025-03,Data Visualization,45
+2025-03,Data Warehousing,20
+2025-03,Deep Learning,67
+2025-03,Docker,178
+2025-03,ETL,23
+2025-03,Excel,59
+2025-03,FastAPI,37
+2025-03,Firewalls,22
+2025-03,GCP,25
+2025-03,Generative AI,38
+2025-03,Git,45
+2025-03,HTML/CSS,23
+2025-03,JavaScript,23
+2025-03,Kafka,11
+2025-03,Kubernetes,106
+2025-03,LLM,30
+2025-03,Linux,92
+2025-03,MLOps,32
+2025-03,Machine Learning,84
+2025-03,Mathematics,26
+2025-03,Microservices,24
+2025-03,MongoDB,12
+2025-03,NLP,35
+2025-03,Network Security,33
+2025-03,Next.js,13
+2025-03,Node.js,23
+2025-03,Pandas,44
+2025-03,PostgreSQL,29
+2025-03,Power BI,45
+2025-03,Prometheus,15
+2025-03,PyTorch,77
+2025-03,Python,261
+2025-03,R,21
+2025-03,React,23
+2025-03,Reinforcement Learning,19
+2025-03,SIEM,33
+2025-03,SQL,154
+2025-03,Scala,16
+2025-03,Scikit-learn,58
+2025-03,Snowflake,50
+2025-03,Spark,20
+2025-03,Statistics,67
+2025-03,System Architecture,22
+2025-03,Tableau,74
+2025-03,Tailwind CSS,18
+2025-03,TensorFlow,29
+2025-03,Terraform,71
+2025-03,Threat Analysis,18
+2025-03,TypeScript,16
+2025-04,AWS,112
+2025-04,Airflow,20
+2025-04,Azure,31
+2025-04,Bash,28
+2025-04,BigQuery,54
+2025-04,Business Intelligence,22
+2025-04,C++,42
+2025-04,CI/CD,37
+2025-04,Cloud Computing,31
+2025-04,Cloud Security,18
+2025-04,Computer Vision,15
+2025-04,Cryptography,17
+2025-04,Cybersecurity,52
+2025-04,DAX,19
+2025-04,Data Modeling,25
+2025-04,Data Pipelines,29
+2025-04,Data Visualization,43
+2025-04,Data Warehousing,19
+2025-04,Deep Learning,60
+2025-04,Docker,162
+2025-04,ETL,16
+2025-04,Excel,54
+2025-04,FastAPI,42
+2025-04,Firewalls,15
+2025-04,GCP,12
+2025-04,Generative AI,51
+2025-04,Git,37
+2025-04,HTML/CSS,23
+2025-04,JavaScript,23
+2025-04,Kafka,22
+2025-04,Kubernetes,80
+2025-04,LLM,34
+2025-04,Linux,59
+2025-04,MLOps,33
+2025-04,Machine Learning,82
+2025-04,Mathematics,24
+2025-04,Microservices,15
+2025-04,MongoDB,17
+2025-04,NLP,34
+2025-04,Network Security,24
+2025-04,Next.js,11
+2025-04,Node.js,23
+2025-04,Pandas,46
+2025-04,PostgreSQL,32
+2025-04,Power BI,42
+2025-04,Prometheus,16
+2025-04,PyTorch,72
+2025-04,Python,232
+2025-04,R,17
+2025-04,React,23
+2025-04,Reinforcement Learning,13
+2025-04,SIEM,24
+2025-04,SQL,156
+2025-04,Scala,14
+2025-04,Scikit-learn,58
+2025-04,Snowflake,52
+2025-04,Spark,29
+2025-04,Statistics,55
+2025-04,System Architecture,13
+2025-04,Tableau,72
+2025-04,Tailwind CSS,17
+2025-04,TensorFlow,36
+2025-04,Terraform,41
+2025-04,Threat Analysis,17
+2025-04,TypeScript,20
+2025-05,AWS,125
+2025-05,Airflow,19
+2025-05,Azure,36
+2025-05,Bash,32
+2025-05,BigQuery,52
+2025-05,Business Intelligence,13
+2025-05,C++,37
+2025-05,CI/CD,43
+2025-05,Cloud Computing,39
+2025-05,Cloud Security,15
+2025-05,Computer Vision,16
+2025-05,Cryptography,14
+2025-05,Cybersecurity,54
+2025-05,DAX,18
+2025-05,Data Modeling,28
+2025-05,Data Pipelines,25
+2025-05,Data Visualization,39
+2025-05,Data Warehousing,16
+2025-05,Deep Learning,62
+2025-05,Docker,164
+2025-05,ETL,17
+2025-05,Excel,47
+2025-05,FastAPI,49
+2025-05,Firewalls,12
+2025-05,GCP,12
+2025-05,Generative AI,47
+2025-05,Git,45
+2025-05,HTML/CSS,24
+2025-05,JavaScript,24
+2025-05,Kafka,17
+2025-05,Kubernetes,88
+2025-05,LLM,30
+2025-05,Linux,66
+2025-05,MLOps,33
+2025-05,Machine Learning,89
+2025-05,Mathematics,25
+2025-05,Microservices,9
+2025-05,MongoDB,15
+2025-05,NLP,39
+2025-05,Network Security,24
+2025-05,Next.js,15
+2025-05,Node.js,24
+2025-05,Pandas,42
+2025-05,PostgreSQL,37
+2025-05,Power BI,41
+2025-05,Prometheus,20
+2025-05,PyTorch,82
+2025-05,Python,233
+2025-05,R,11
+2025-05,React,24
+2025-05,Reinforcement Learning,16
+2025-05,SIEM,24
+2025-05,SQL,152
+2025-05,Scala,14
+2025-05,Scikit-learn,64
+2025-05,Snowflake,45
+2025-05,Spark,25
+2025-05,Statistics,56
+2025-05,System Architecture,10
+2025-05,Tableau,64
+2025-05,Tailwind CSS,13
+2025-05,TensorFlow,42
+2025-05,Terraform,47
+2025-05,Threat Analysis,15
+2025-05,TypeScript,17
+2025-06,AWS,123
+2025-06,Airflow,18
+2025-06,Azure,29
+2025-06,Bash,36
+2025-06,BigQuery,54
+2025-06,Business Intelligence,17
+2025-06,C++,44
+2025-06,CI/CD,36
+2025-06,Cloud Computing,38
+2025-06,Cloud Security,16
+2025-06,Computer Vision,25
+2025-06,Cryptography,21
+2025-06,Cybersecurity,56
+2025-06,DAX,18
+2025-06,Data Modeling,23
+2025-06,Data Pipelines,28
+2025-06,Data Visualization,49
+2025-06,Data Warehousing,13
+2025-06,Deep Learning,80
+2025-06,Docker,167
+2025-06,ETL,10
+2025-06,Excel,47
+2025-06,FastAPI,47
+2025-06,Firewalls,16
+2025-06,GCP,18
+2025-06,Generative AI,64
+2025-06,Git,46
+2025-06,HTML/CSS,29
+2025-06,JavaScript,29
+2025-06,Kafka,14
+2025-06,Kubernetes,87
+2025-06,LLM,44
+2025-06,Linux,65
+2025-06,MLOps,31
+2025-06,Machine Learning,107
+2025-06,Mathematics,43
+2025-06,Microservices,14
+2025-06,MongoDB,23
+2025-06,NLP,52
+2025-06,Network Security,29
+2025-06,Next.js,21
+2025-06,Node.js,29
+2025-06,Pandas,52
+2025-06,PostgreSQL,37
+2025-06,Power BI,37
+2025-06,Prometheus,14
+2025-06,PyTorch,97
+2025-06,Python,270
+2025-06,R,20
+2025-06,React,29
+2025-06,Reinforcement Learning,34
+2025-06,SIEM,29
+2025-06,SQL,159
+2025-06,Scala,15
+2025-06,Scikit-learn,64
+2025-06,Snowflake,47
+2025-06,Spark,28
+2025-06,Statistics,70
+2025-06,System Architecture,14
+2025-06,Tableau,66
+2025-06,Tailwind CSS,22
+2025-06,TensorFlow,50
+2025-06,Terraform,46
+2025-06,Threat Analysis,19
+2025-06,TypeScript,26
+2025-07,AWS,131
+2025-07,Airflow,20
+2025-07,Azure,44
+2025-07,Bash,29
+2025-07,BigQuery,64
+2025-07,Business Intelligence,20
+2025-07,C++,40
+2025-07,CI/CD,48
+2025-07,Cloud Computing,54
+2025-07,Cloud Security,17
+2025-07,Computer Vision,20
+2025-07,Cryptography,20
+2025-07,Cybersecurity,62
+2025-07,DAX,15
+2025-07,Data Modeling,22
+2025-07,Data Pipelines,31
+2025-07,Data Visualization,46
+2025-07,Data Warehousing,14
+2025-07,Deep Learning,70
+2025-07,Docker,181
+2025-07,ETL,13
+2025-07,Excel,49
+2025-07,FastAPI,36
+2025-07,Firewalls,17
+2025-07,GCP,24
+2025-07,Generative AI,54
+2025-07,Git,36
+2025-07,HTML/CSS,18
+2025-07,JavaScript,18
+2025-07,Kafka,18
+2025-07,Kubernetes,100
+2025-07,LLM,28
+2025-07,Linux,76
+2025-07,MLOps,31
+2025-07,Machine Learning,88
+2025-07,Mathematics,26
+2025-07,Microservices,23
+2025-07,MongoDB,13
+2025-07,NLP,36
+2025-07,Network Security,28
+2025-07,Next.js,11
+2025-07,Node.js,18
+2025-07,Pandas,50
+2025-07,PostgreSQL,25
+2025-07,Power BI,40
+2025-07,Prometheus,15
+2025-07,PyTorch,77
+2025-07,Python,246
+2025-07,R,17
+2025-07,React,18
+2025-07,Reinforcement Learning,16
+2025-07,SIEM,28
+2025-07,SQL,152
+2025-07,Scala,20
+2025-07,Scikit-learn,62
+2025-07,Snowflake,52
+2025-07,Spark,31
+2025-07,Statistics,64
+2025-07,System Architecture,24
+2025-07,Tableau,70
+2025-07,Tailwind CSS,14
+2025-07,TensorFlow,35
+2025-07,Terraform,59
+2025-07,Threat Analysis,23
+2025-07,TypeScript,14
+2025-08,AWS,133
+2025-08,Airflow,19
+2025-08,Azure,35
+2025-08,Bash,37
+2025-08,BigQuery,56
+2025-08,Business Intelligence,19
+2025-08,C++,36
+2025-08,CI/CD,52
+2025-08,Cloud Computing,46
+2025-08,Cloud Security,18
+2025-08,Computer Vision,16
+2025-08,Cryptography,13
+2025-08,Cybersecurity,62
+2025-08,DAX,17
+2025-08,Data Modeling,23
+2025-08,Data Pipelines,28
+2025-08,Data Visualization,55
+2025-08,Data Warehousing,19
+2025-08,Deep Learning,70
+2025-08,Docker,190
+2025-08,ETL,14
+2025-08,Excel,54
+2025-08,FastAPI,47
+2025-08,Firewalls,18
+2025-08,GCP,17
+2025-08,Generative AI,55
+2025-08,Git,54
+2025-08,HTML/CSS,32
+2025-08,JavaScript,32
+2025-08,Kafka,19
+2025-08,Kubernetes,100
+2025-08,LLM,40
+2025-08,Linux,76
+2025-08,MLOps,28
+2025-08,Machine Learning,87
+2025-08,Mathematics,29
+2025-08,Microservices,21
+2025-08,MongoDB,22
+2025-08,NLP,35
+2025-08,Network Security,25
+2025-08,Next.js,24
+2025-08,Node.js,32
+2025-08,Pandas,52
+2025-08,PostgreSQL,45
+2025-08,Power BI,43
+2025-08,Prometheus,22
+2025-08,PyTorch,76
+2025-08,Python,263
+2025-08,R,20
+2025-08,React,32
+2025-08,Reinforcement Learning,17
+2025-08,SIEM,25
+2025-08,SQL,169
+2025-08,Scala,21
+2025-08,Scikit-learn,58
+2025-08,Snowflake,56
+2025-08,Spark,28
+2025-08,Statistics,70
+2025-08,System Architecture,23
+2025-08,Tableau,75
+2025-08,Tailwind CSS,24
+2025-08,TensorFlow,33
+2025-08,Terraform,60
+2025-08,Threat Analysis,13
+2025-08,TypeScript,27
+2025-09,AWS,111
+2025-09,Airflow,19
+2025-09,Azure,35
+2025-09,Bash,32
+2025-09,BigQuery,63
+2025-09,Business Intelligence,17
+2025-09,C++,38
+2025-09,CI/CD,39
+2025-09,Cloud Computing,41
+2025-09,Cloud Security,23
+2025-09,Computer Vision,22
+2025-09,Cryptography,17
+2025-09,Cybersecurity,64
+2025-09,DAX,18
+2025-09,Data Modeling,34
+2025-09,Data Pipelines,28
+2025-09,Data Visualization,44
+2025-09,Data Warehousing,27
+2025-09,Deep Learning,61
+2025-09,Docker,155
+2025-09,ETL,24
+2025-09,Excel,61
+2025-09,FastAPI,35
+2025-09,Firewalls,17
+2025-09,GCP,17
+2025-09,Generative AI,51
+2025-09,Git,36
+2025-09,HTML/CSS,23
+2025-09,JavaScript,23
+2025-09,Kafka,21
+2025-09,Kubernetes,81
+2025-09,LLM,35
+2025-09,Linux,65
+2025-09,MLOps,19
+2025-09,Machine Learning,77
+2025-09,Mathematics,29
+2025-09,Microservices,16
+2025-09,MongoDB,18
+2025-09,NLP,43
+2025-09,Network Security,27
+2025-09,Next.js,13
+2025-09,Node.js,23
+2025-09,Pandas,45
+2025-09,PostgreSQL,34
+2025-09,Power BI,50
+2025-09,Prometheus,16
+2025-09,PyTorch,70
+2025-09,Python,249
+2025-09,R,15
+2025-09,React,23
+2025-09,Reinforcement Learning,19
+2025-09,SIEM,27
+2025-09,SQL,156
+2025-09,Scala,21
+2025-09,Scikit-learn,48
+2025-09,Snowflake,57
+2025-09,Spark,28
+2025-09,Statistics,72
+2025-09,System Architecture,16
+2025-09,Tableau,79
+2025-09,Tailwind CSS,19
+2025-09,TensorFlow,35
+2025-09,Terraform,46
+2025-09,Threat Analysis,20
+2025-09,TypeScript,23
+2025-10,AWS,103
+2025-10,Airflow,15
+2025-10,Azure,24
+2025-10,Bash,32
+2025-10,BigQuery,66
+2025-10,Business Intelligence,22
+2025-10,C++,30
+2025-10,CI/CD,31
+2025-10,Cloud Computing,35
+2025-10,Cloud Security,17
+2025-10,Computer Vision,13
+2025-10,Cryptography,21
+2025-10,Cybersecurity,54
+2025-10,DAX,20
+2025-10,Data Modeling,30
+2025-10,Data Pipelines,28
+2025-10,Data Visualization,48
+2025-10,Data Warehousing,19
+2025-10,Deep Learning,66
+2025-10,Docker,161
+2025-10,ETL,19
+2025-10,Excel,60
+2025-10,FastAPI,49
+2025-10,Firewalls,19
+2025-10,GCP,14
+2025-10,Generative AI,47
+2025-10,Git,36
+2025-10,HTML/CSS,27
+2025-10,JavaScript,27
+2025-10,Kafka,18
+2025-10,Kubernetes,77
+2025-10,LLM,44
+2025-10,Linux,60
+2025-10,MLOps,28
+2025-10,Machine Learning,79
+2025-10,Mathematics,24
+2025-10,Microservices,17
+2025-10,MongoDB,19
+2025-10,NLP,26
+2025-10,Network Security,28
+2025-10,Next.js,14
+2025-10,Node.js,27
+2025-10,Pandas,45
+2025-10,PostgreSQL,38
+2025-10,Power BI,49
+2025-10,Prometheus,10
+2025-10,PyTorch,72
+2025-10,Python,247
+2025-10,R,24
+2025-10,React,27
+2025-10,Reinforcement Learning,16
+2025-10,SIEM,28
+2025-10,SQL,161
+2025-10,Scala,21
+2025-10,Scikit-learn,55
+2025-10,Snowflake,57
+2025-10,Spark,28
+2025-10,Statistics,67
+2025-10,System Architecture,17
+2025-10,Tableau,77
+2025-10,Tailwind CSS,18
+2025-10,TensorFlow,37
+2025-10,Terraform,39
+2025-10,Threat Analysis,20
+2025-10,TypeScript,25
+2025-11,AWS,135
+2025-11,Airflow,13
+2025-11,Azure,43
+2025-11,Bash,54
+2025-11,BigQuery,62
+2025-11,Business Intelligence,25
+2025-11,C++,31
+2025-11,CI/CD,50
+2025-11,Cloud Computing,50
+2025-11,Cloud Security,27
+2025-11,Computer Vision,18
+2025-11,Cryptography,27
+2025-11,Cybersecurity,88
+2025-11,DAX,24
+2025-11,Data Modeling,38
+2025-11,Data Pipelines,24
+2025-11,Data Visualization,63
+2025-11,Data Warehousing,26
+2025-11,Deep Learning,62
+2025-11,Docker,203
+2025-11,ETL,27
+2025-11,Excel,70
+2025-11,FastAPI,48
+2025-11,Firewalls,29
+2025-11,GCP,22
+2025-11,Generative AI,62
+2025-11,Git,54
+2025-11,HTML/CSS,35
+2025-11,JavaScript,35
+2025-11,Kafka,18
+2025-11,Kubernetes,97
+2025-11,LLM,35
+2025-11,Linux,91
+2025-11,MLOps,24
+2025-11,Machine Learning,90
+2025-11,Mathematics,25
+2025-11,Microservices,20
+2025-11,MongoDB,24
+2025-11,NLP,38
+2025-11,Network Security,41
+2025-11,Next.js,22
+2025-11,Node.js,35
+2025-11,Pandas,67
+2025-11,PostgreSQL,43
+2025-11,Power BI,59
+2025-11,Prometheus,22
+2025-11,PyTorch,81
+2025-11,Python,301
+2025-11,R,18
+2025-11,React,35
+2025-11,Reinforcement Learning,15
+2025-11,SIEM,41
+2025-11,SQL,185
+2025-11,Scala,13
+2025-11,Scikit-learn,65
+2025-11,Snowflake,61
+2025-11,Spark,24
+2025-11,Statistics,84
+2025-11,System Architecture,18
+2025-11,Tableau,97
+2025-11,Tailwind CSS,27
+2025-11,TensorFlow,35
+2025-11,Terraform,60
+2025-11,Threat Analysis,27
+2025-11,TypeScript,27
+2025-12,AWS,119
+2025-12,Airflow,16
+2025-12,Azure,38
+2025-12,Bash,47
+2025-12,BigQuery,46
+2025-12,Business Intelligence,22
+2025-12,C++,41
+2025-12,CI/CD,49
+2025-12,Cloud Computing,44
+2025-12,Cloud Security,25
+2025-12,Computer Vision,24
+2025-12,Cryptography,31
+2025-12,Cybersecurity,78
+2025-12,DAX,20
+2025-12,Data Modeling,28
+2025-12,Data Pipelines,23
+2025-12,Data Visualization,40
+2025-12,Data Warehousing,14
+2025-12,Deep Learning,66
+2025-12,Docker,170
+2025-12,ETL,16
+2025-12,Excel,56
+2025-12,FastAPI,42
+2025-12,Firewalls,24
+2025-12,GCP,21
+2025-12,Generative AI,51
+2025-12,Git,42
+2025-12,HTML/CSS,22
+2025-12,JavaScript,22
+2025-12,Kafka,18
+2025-12,Kubernetes,93
+2025-12,LLM,47
+2025-12,Linux,92
+2025-12,MLOps,34
+2025-12,Machine Learning,79
+2025-12,Mathematics,31
+2025-12,Microservices,23
+2025-12,MongoDB,13
+2025-12,NLP,29
+2025-12,Network Security,42
+2025-12,Next.js,13
+2025-12,Node.js,22
+2025-12,Pandas,33
+2025-12,PostgreSQL,31
+2025-12,Power BI,50
+2025-12,Prometheus,20
+2025-12,PyTorch,77
+2025-12,Python,258
+2025-12,R,22
+2025-12,React,22
+2025-12,Reinforcement Learning,21
+2025-12,SIEM,42
+2025-12,SQL,141
+2025-12,Scala,14
+2025-12,Scikit-learn,48
+2025-12,Snowflake,55
+2025-12,Spark,23
+2025-12,Statistics,57
+2025-12,System Architecture,23
+2025-12,Tableau,65
+2025-12,Tailwind CSS,17
+2025-12,TensorFlow,48
+2025-12,Terraform,56
+2025-12,Threat Analysis,32
+2025-12,TypeScript,15
+2026-01,AWS,119
+2026-01,Airflow,19
+2026-01,Azure,41
+2026-01,Bash,40
+2026-01,BigQuery,48
+2026-01,Business Intelligence,14
+2026-01,C++,29
+2026-01,CI/CD,51
+2026-01,Cloud Computing,49
+2026-01,Cloud Security,16
+2026-01,Computer Vision,12
+2026-01,Cryptography,23
+2026-01,Cybersecurity,71
+2026-01,DAX,21
+2026-01,Data Modeling,30
+2026-01,Data Pipelines,24
+2026-01,Data Visualization,44
+2026-01,Data Warehousing,19
+2026-01,Deep Learning,55
+2026-01,Docker,169
+2026-01,ETL,22
+2026-01,Excel,54
+2026-01,FastAPI,44
+2026-01,Firewalls,19
+2026-01,GCP,16
+2026-01,Generative AI,54
+2026-01,Git,55
+2026-01,HTML/CSS,29
+2026-01,JavaScript,29
+2026-01,Kafka,17
+2026-01,Kubernetes,93
+2026-01,LLM,27
+2026-01,Linux,82
+2026-01,MLOps,22
+2026-01,Machine Learning,67
+2026-01,Mathematics,21
+2026-01,Microservices,16
+2026-01,MongoDB,17
+2026-01,NLP,29
+2026-01,Network Security,28
+2026-01,Next.js,18
+2026-01,Node.js,29
+2026-01,Pandas,40
+2026-01,PostgreSQL,42
+2026-01,Power BI,46
+2026-01,Prometheus,19
+2026-01,PyTorch,63
+2026-01,Python,233
+2026-01,R,13
+2026-01,React,29
+2026-01,Reinforcement Learning,13
+2026-01,SIEM,28
+2026-01,SQL,146
+2026-01,Scala,17
+2026-01,Scikit-learn,46
+2026-01,Snowflake,52
+2026-01,Spark,24
+2026-01,Statistics,59
+2026-01,System Architecture,20
+2026-01,Tableau,76
+2026-01,Tailwind CSS,24
+2026-01,TensorFlow,23
+2026-01,Terraform,59
+2026-01,Threat Analysis,20
+2026-01,TypeScript,19
+2026-02,AWS,111
+2026-02,Airflow,10
+2026-02,Azure,39
+2026-02,Bash,34
+2026-02,BigQuery,53
+2026-02,Business Intelligence,21
+2026-02,C++,39
+2026-02,CI/CD,52
+2026-02,Cloud Computing,42
+2026-02,Cloud Security,12
+2026-02,Computer Vision,22
+2026-02,Cryptography,14
+2026-02,Cybersecurity,56
+2026-02,DAX,20
+2026-02,Data Modeling,31
+2026-02,Data Pipelines,20
+2026-02,Data Visualization,42
+2026-02,Data Warehousing,25
+2026-02,Deep Learning,67
+2026-02,Docker,163
+2026-02,ETL,21
+2026-02,Excel,61
+2026-02,FastAPI,49
+2026-02,Firewalls,14
+2026-02,GCP,13
+2026-02,Generative AI,57
+2026-02,Git,58
+2026-02,HTML/CSS,31
+2026-02,JavaScript,31
+2026-02,Kafka,15
+2026-02,Kubernetes,88
+2026-02,LLM,43
+2026-02,Linux,66
+2026-02,MLOps,29
+2026-02,Machine Learning,79
+2026-02,Mathematics,28
+2026-02,Microservices,11
+2026-02,MongoDB,20
+2026-02,NLP,37
+2026-02,Network Security,21
+2026-02,Next.js,22
+2026-02,Node.js,31
+2026-02,Pandas,45
+2026-02,PostgreSQL,39
+2026-02,Power BI,54
+2026-02,Prometheus,17
+2026-02,PyTorch,74
+2026-02,Python,237
+2026-02,R,17
+2026-02,React,31
+2026-02,Reinforcement Learning,15
+2026-02,SIEM,21
+2026-02,SQL,157
+2026-02,Scala,10
+2026-02,Scikit-learn,51
+2026-02,Snowflake,54
+2026-02,Spark,20
+2026-02,Statistics,65
+2026-02,System Architecture,10
+2026-02,Tableau,76
+2026-02,Tailwind CSS,20
+2026-02,TensorFlow,35
+2026-02,Terraform,52
+2026-02,Threat Analysis,12
+2026-02,TypeScript,25
+2026-03,AWS,117
+2026-03,Airflow,15
+2026-03,Azure,39
+2026-03,Bash,32
+2026-03,BigQuery,51
+2026-03,Business Intelligence,15
+2026-03,C++,38
+2026-03,CI/CD,43
+2026-03,Cloud Computing,45
+2026-03,Cloud Security,28
+2026-03,Computer Vision,15
+2026-03,Cryptography,22
+2026-03,Cybersecurity,68
+2026-03,DAX,15
+2026-03,Data Modeling,18
+2026-03,Data Pipelines,22
+2026-03,Data Visualization,39
+2026-03,Data Warehousing,11
+2026-03,Deep Learning,65
+2026-03,Docker,173
+2026-03,ETL,14
+2026-03,Excel,38
+2026-03,FastAPI,41
+2026-03,Firewalls,23
+2026-03,GCP,23
+2026-03,Generative AI,54
+2026-03,Git,40
+2026-03,HTML/CSS,25
+2026-03,JavaScript,25
+2026-03,Kafka,10
+2026-03,Kubernetes,89
+2026-03,LLM,42
+2026-03,Linux,74
+2026-03,MLOps,33
+2026-03,Machine Learning,79
+2026-03,Mathematics,20
+2026-03,Microservices,19
+2026-03,MongoDB,12
+2026-03,NLP,24
+2026-03,Network Security,34
+2026-03,Next.js,17
+2026-03,Node.js,25
+2026-03,Pandas,35
+2026-03,PostgreSQL,33
+2026-03,Power BI,35
+2026-03,Prometheus,13
+2026-03,PyTorch,77
+2026-03,Python,227
+2026-03,R,14
+2026-03,React,25
+2026-03,Reinforcement Learning,12
+2026-03,SIEM,34
+2026-03,SQL,138
+2026-03,Scala,12
+2026-03,Scikit-learn,59
+2026-03,Snowflake,47
+2026-03,Spark,22
+2026-03,Statistics,51
+2026-03,System Architecture,23
+2026-03,Tableau,55
+2026-03,Tailwind CSS,19
+2026-03,TensorFlow,33
+2026-03,Terraform,51
+2026-03,Threat Analysis,22
+2026-03,TypeScript,21
+2026-04,AWS,98
+2026-04,Airflow,14
+2026-04,Azure,31
+2026-04,Bash,27
+2026-04,BigQuery,51
+2026-04,Business Intelligence,22
+2026-04,C++,22
+2026-04,CI/CD,37
+2026-04,Cloud Computing,38
+2026-04,Cloud Security,10
+2026-04,Computer Vision,12
+2026-04,Cryptography,13
+2026-04,Cybersecurity,48
+2026-04,DAX,19
+2026-04,Data Modeling,23
+2026-04,Data Pipelines,25
+2026-04,Data Visualization,43
+2026-04,Data Warehousing,14
+2026-04,Deep Learning,44
+2026-04,Docker,146
+2026-04,ETL,13
+2026-04,Excel,51
+2026-04,FastAPI,32
+2026-04,Firewalls,15
+2026-04,GCP,17
+2026-04,Generative AI,39
+2026-04,Git,42
+2026-04,HTML/CSS,28
+2026-04,JavaScript,28
+2026-04,Kafka,20
+2026-04,Kubernetes,75
+2026-04,LLM,29
+2026-04,Linux,55
+2026-04,MLOps,19
+2026-04,Machine Learning,53
+2026-04,Mathematics,14
+2026-04,Microservices,21
+2026-04,MongoDB,22
+2026-04,NLP,22
+2026-04,Network Security,20
+2026-04,Next.js,17
+2026-04,Node.js,28
+2026-04,Pandas,39
+2026-04,PostgreSQL,33
+2026-04,Power BI,45
+2026-04,Prometheus,14
+2026-04,PyTorch,48
+2026-04,Python,199
+2026-04,R,20
+2026-04,React,28
+2026-04,Reinforcement Learning,12
+2026-04,SIEM,20
+2026-04,SQL,140
+2026-04,Scala,19
+2026-04,Scikit-learn,39
+2026-04,Snowflake,52
+2026-04,Spark,25
+2026-04,Statistics,61
+2026-04,System Architecture,20
+2026-04,Tableau,68
+2026-04,Tailwind CSS,20
+2026-04,TensorFlow,21
+2026-04,Terraform,45
+2026-04,Threat Analysis,18
+2026-04,TypeScript,22
+2026-05,AWS,105
+2026-05,Airflow,18
+2026-05,Azure,25
+2026-05,Bash,18
+2026-05,BigQuery,41
+2026-05,Business Intelligence,15
+2026-05,C++,39
+2026-05,CI/CD,31
+2026-05,Cloud Computing,34
+2026-05,Cloud Security,14
+2026-05,Computer Vision,14
+2026-05,Cryptography,11
+2026-05,Cybersecurity,44
+2026-05,DAX,16
+2026-05,Data Modeling,27
+2026-05,Data Pipelines,24
+2026-05,Data Visualization,34
+2026-05,Data Warehousing,19
+2026-05,Deep Learning,62
+2026-05,Docker,135
+2026-05,ETL,20
+2026-05,Excel,48
+2026-05,FastAPI,35
+2026-05,Firewalls,15
+2026-05,GCP,17
+2026-05,Generative AI,61
+2026-05,Git,27
+2026-05,HTML/CSS,16
+2026-05,JavaScript,16
+2026-05,Kafka,16
+2026-05,Kubernetes,84
+2026-05,LLM,42
+2026-05,Linux,48
+2026-05,MLOps,34
+2026-05,Machine Learning,73
+2026-05,Mathematics,21
+2026-05,Microservices,18
+2026-05,MongoDB,13
+2026-05,NLP,29
+2026-05,Network Security,17
+2026-05,Next.js,11
+2026-05,Node.js,16
+2026-05,Pandas,32
+2026-05,PostgreSQL,33
+2026-05,Power BI,40
+2026-05,Prometheus,12
+2026-05,PyTorch,68
+2026-05,Python,191
+2026-05,R,17
+2026-05,React,16
+2026-05,Reinforcement Learning,15
+2026-05,SIEM,17
+2026-05,SQL,137
+2026-05,Scala,18
+2026-05,Scikit-learn,52
+2026-05,Snowflake,56
+2026-05,Spark,24
+2026-05,Statistics,54
+2026-05,System Architecture,12
+2026-05,Tableau,64
+2026-05,Tailwind CSS,14
+2026-05,TensorFlow,40
+2026-05,Terraform,37
+2026-05,Threat Analysis,11
+2026-05,TypeScript,11

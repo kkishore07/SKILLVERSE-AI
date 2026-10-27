@@ -1,0 +1,717 @@
+{
+  "Machine Learning Engineer": {
+    "role": "Machine Learning Engineer",
+    "average_salary": 191651,
+    "total_postings": 1262,
+    "expected_skills": [
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Machine Learning",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "PyTorch",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "MLOps",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Scikit-learn",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SQL",
+        "frequency_pct": 72.7,
+        "priority": "High"
+      },
+      {
+        "skill": "AWS",
+        "frequency_pct": 72.7,
+        "priority": "High"
+      },
+      {
+        "skill": "FastAPI",
+        "frequency_pct": 72.4,
+        "priority": "High"
+      },
+      {
+        "skill": "C++",
+        "frequency_pct": 70.2,
+        "priority": "High"
+      },
+      {
+        "skill": "Deep Learning",
+        "frequency_pct": 64.4,
+        "priority": "High"
+      },
+      {
+        "skill": "TensorFlow",
+        "frequency_pct": 62.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Kubernetes",
+        "frequency_pct": 61.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Generative AI",
+        "frequency_pct": 49.4,
+        "priority": "Medium"
+      },
+      {
+        "skill": "LLM",
+        "frequency_pct": 49.1,
+        "priority": "Medium"
+      }
+    ]
+  },
+  "Data Engineer": {
+    "role": "Data Engineer",
+    "average_salary": 170351,
+    "total_postings": 1147,
+    "expected_skills": [
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SQL",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Spark",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "AWS",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Data Pipelines",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "BigQuery",
+        "frequency_pct": 63.7,
+        "priority": "High"
+      },
+      {
+        "skill": "Scala",
+        "frequency_pct": 63.6,
+        "priority": "High"
+      },
+      {
+        "skill": "PostgreSQL",
+        "frequency_pct": 62.9,
+        "priority": "High"
+      },
+      {
+        "skill": "Snowflake",
+        "frequency_pct": 62.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Kafka",
+        "frequency_pct": 62.2,
+        "priority": "High"
+      },
+      {
+        "skill": "Kubernetes",
+        "frequency_pct": 60.5,
+        "priority": "High"
+      },
+      {
+        "skill": "Airflow",
+        "frequency_pct": 60.4,
+        "priority": "High"
+      }
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "role": "Cybersecurity Analyst",
+    "average_salary": 139553,
+    "total_postings": 1264,
+    "expected_skills": [
+      {
+        "skill": "Cybersecurity",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Network Security",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Linux",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SIEM",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 73.4,
+        "priority": "High"
+      },
+      {
+        "skill": "Bash",
+        "frequency_pct": 69.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Cloud Security",
+        "frequency_pct": 62.2,
+        "priority": "High"
+      },
+      {
+        "skill": "Threat Analysis",
+        "frequency_pct": 61.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Cryptography",
+        "frequency_pct": 61.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Firewalls",
+        "frequency_pct": 59.8,
+        "priority": "High"
+      }
+    ]
+  },
+  "Business Intelligence Developer": {
+    "role": "Business Intelligence Developer",
+    "average_salary": 118794,
+    "total_postings": 1164,
+    "expected_skills": [
+      {
+        "skill": "Power BI",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SQL",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Tableau",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Data Modeling",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Excel",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 74.4,
+        "priority": "High"
+      },
+      {
+        "skill": "Statistics",
+        "frequency_pct": 66.0,
+        "priority": "High"
+      },
+      {
+        "skill": "DAX",
+        "frequency_pct": 64.9,
+        "priority": "High"
+      },
+      {
+        "skill": "Snowflake",
+        "frequency_pct": 63.2,
+        "priority": "High"
+      },
+      {
+        "skill": "Data Warehousing",
+        "frequency_pct": 62.6,
+        "priority": "High"
+      },
+      {
+        "skill": "ETL",
+        "frequency_pct": 60.7,
+        "priority": "High"
+      }
+    ]
+  },
+  "AI Research Scientist": {
+    "role": "AI Research Scientist",
+    "average_salary": 229039,
+    "total_postings": 1207,
+    "expected_skills": [
+      {
+        "skill": "Deep Learning",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "PyTorch",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Mathematics",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Machine Learning",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "C++",
+        "frequency_pct": 69.8,
+        "priority": "High"
+      },
+      {
+        "skill": "TensorFlow",
+        "frequency_pct": 63.5,
+        "priority": "High"
+      },
+      {
+        "skill": "Computer Vision",
+        "frequency_pct": 63.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Reinforcement Learning",
+        "frequency_pct": 62.7,
+        "priority": "High"
+      },
+      {
+        "skill": "NLP",
+        "frequency_pct": 60.7,
+        "priority": "High"
+      },
+      {
+        "skill": "Generative AI",
+        "frequency_pct": 51.0,
+        "priority": "High"
+      },
+      {
+        "skill": "LLM",
+        "frequency_pct": 50.0,
+        "priority": "High"
+      }
+    ]
+  },
+  "Full Stack Developer": {
+    "role": "Full Stack Developer",
+    "average_salary": 145180,
+    "total_postings": 1193,
+    "expected_skills": [
+      {
+        "skill": "JavaScript",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "React",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Node.js",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SQL",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Git",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "HTML/CSS",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "TypeScript",
+        "frequency_pct": 74.9,
+        "priority": "High"
+      },
+      {
+        "skill": "FastAPI",
+        "frequency_pct": 72.6,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 71.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 70.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Tailwind CSS",
+        "frequency_pct": 64.5,
+        "priority": "High"
+      },
+      {
+        "skill": "PostgreSQL",
+        "frequency_pct": 63.3,
+        "priority": "High"
+      },
+      {
+        "skill": "Next.js",
+        "frequency_pct": 60.4,
+        "priority": "High"
+      },
+      {
+        "skill": "MongoDB",
+        "frequency_pct": 59.3,
+        "priority": "High"
+      }
+    ]
+  },
+  "Data Analyst": {
+    "role": "Data Analyst",
+    "average_salary": 104030,
+    "total_postings": 1204,
+    "expected_skills": [
+      {
+        "skill": "SQL",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Excel",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Tableau",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Data Visualization",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "R",
+        "frequency_pct": 64.5,
+        "priority": "High"
+      },
+      {
+        "skill": "Business Intelligence",
+        "frequency_pct": 64.3,
+        "priority": "High"
+      },
+      {
+        "skill": "Statistics",
+        "frequency_pct": 64.1,
+        "priority": "High"
+      },
+      {
+        "skill": "BigQuery",
+        "frequency_pct": 63.2,
+        "priority": "High"
+      },
+      {
+        "skill": "Pandas",
+        "frequency_pct": 62.7,
+        "priority": "High"
+      },
+      {
+        "skill": "Snowflake",
+        "frequency_pct": 62.6,
+        "priority": "High"
+      },
+      {
+        "skill": "Power BI",
+        "frequency_pct": 62.0,
+        "priority": "High"
+      }
+    ]
+  },
+  "DevOps Engineer": {
+    "role": "DevOps Engineer",
+    "average_salary": 162658,
+    "total_postings": 1191,
+    "expected_skills": [
+      {
+        "skill": "Docker",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Kubernetes",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "CI/CD",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Linux",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "AWS",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Terraform",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 72.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Bash",
+        "frequency_pct": 67.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Azure",
+        "frequency_pct": 66.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Cybersecurity",
+        "frequency_pct": 63.6,
+        "priority": "High"
+      },
+      {
+        "skill": "Git",
+        "frequency_pct": 63.1,
+        "priority": "High"
+      },
+      {
+        "skill": "Prometheus",
+        "frequency_pct": 62.7,
+        "priority": "High"
+      },
+      {
+        "skill": "Cloud Computing",
+        "frequency_pct": 62.6,
+        "priority": "High"
+      }
+    ]
+  },
+  "Data Scientist": {
+    "role": "Data Scientist",
+    "average_salary": 154956,
+    "total_postings": 1176,
+    "expected_skills": [
+      {
+        "skill": "Python",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "SQL",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Machine Learning",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Statistics",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Pandas",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Scikit-learn",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 73.1,
+        "priority": "High"
+      },
+      {
+        "skill": "AWS",
+        "frequency_pct": 71.5,
+        "priority": "High"
+      },
+      {
+        "skill": "PyTorch",
+        "frequency_pct": 64.6,
+        "priority": "High"
+      },
+      {
+        "skill": "Deep Learning",
+        "frequency_pct": 63.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Tableau",
+        "frequency_pct": 63.6,
+        "priority": "High"
+      },
+      {
+        "skill": "BigQuery",
+        "frequency_pct": 62.8,
+        "priority": "High"
+      },
+      {
+        "skill": "Data Visualization",
+        "frequency_pct": 62.0,
+        "priority": "High"
+      },
+      {
+        "skill": "NLP",
+        "frequency_pct": 61.4,
+        "priority": "High"
+      },
+      {
+        "skill": "Generative AI",
+        "frequency_pct": 51.4,
+        "priority": "High"
+      }
+    ]
+  },
+  "Cloud Architect": {
+    "role": "Cloud Architect",
+    "average_salary": 209576,
+    "total_postings": 1172,
+    "expected_skills": [
+      {
+        "skill": "Cloud Computing",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "AWS",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Terraform",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Kubernetes",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Docker",
+        "frequency_pct": 100.0,
+        "priority": "High"
+      },
+      {
+        "skill": "Python",
+        "frequency_pct": 72.8,
+        "priority": "High"
+      },
+      {
+        "skill": "CI/CD",
+        "frequency_pct": 64.7,
+        "priority": "High"
+      },
+      {
+        "skill": "Microservices",
+        "frequency_pct": 64.3,
+        "priority": "High"
+      },
+      {
+        "skill": "Cybersecurity",
+        "frequency_pct": 64.0,
+        "priority": "High"
+      },
+      {
+        "skill": "GCP",
+        "frequency_pct": 63.6,
+        "priority": "High"
+      },
+      {
+        "skill": "System Architecture",
+        "frequency_pct": 63.4,
+        "priority": "High"
+      },
+      {
+        "skill": "Azure",
+        "frequency_pct": 62.5,
+        "priority": "High"
+      },
+      {
+        "skill": "Linux",
+        "frequency_pct": 62.1,
+        "priority": "High"
+      }
+    ]
+  }
+}

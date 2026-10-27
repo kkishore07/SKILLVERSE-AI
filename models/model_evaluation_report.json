@@ -1,0 +1,61 @@
+{
+  "project": "SkillVerse AI",
+  "description": "Model evaluation across forecasting, regression, and classification tasks",
+  "forecasting": {
+    "algorithm": "Autoregressive Lagged Ridge Regression with Seasonality",
+    "benchmark_baseline": "3-Month Moving Average",
+    "skills_forecasted": 25,
+    "forecast_horizon_months": 12,
+    "average_mae": 15.44,
+    "average_rmse": 17.56,
+    "average_mape": 23.87
+  },
+  "salary_prediction": {
+    "model": "Random Forest Regressor",
+    "n_estimators": 100,
+    "mae": 6938.12,
+    "rmse": 8583.95,
+    "r2_score": 0.9766,
+    "feature_columns": [
+      "job_title_normalized",
+      "experience_level",
+      "location",
+      "industry",
+      "skill_count",
+      "has_python",
+      "has_docker",
+      "has_sql",
+      "has_aws",
+      "has_kubernetes",
+      "has_machine_learning",
+      "has_pytorch",
+      "has_linux",
+      "has_tableau",
+      "has_cybersecurity"
+    ],
+    "top_skills_tracked": [
+      "Python",
+      "Docker",
+      "SQL",
+      "AWS",
+      "Kubernetes",
+      "Machine Learning",
+      "PyTorch",
+      "Linux",
+      "Tableau",
+      "Cybersecurity"
+    ]
+  },
+  "skill_classification": {
+    "model": "Random Forest Classifier",
+    "classes": [
+      "High",
+      "Medium",
+      "Low"
+    ],
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "model": "Random Forest Regressor",
+  "n_estimators": 100,
+  "mae": 6938.12,
+  "rmse": 8583.95,
+  "r2_score": 0.9766,
+  "feature_columns": [
+    "job_title_normalized",
+    "experience_level",
+    "location",
+    "industry",
+    "skill_count",
+    "has_python",
+    "has_docker",
+    "has_sql",
+    "has_aws",
+    "has_kubernetes",
+    "has_machine_learning",
+    "has_pytorch",
+    "has_linux",
+    "has_tableau",
+    "has_cybersecurity"
+  ],
+  "top_skills_tracked": [
+    "Python",
+    "Docker",
+    "SQL",
+    "AWS",
+    "Kubernetes",
+    "Machine Learning",
+    "PyTorch",
+    "Linux",
+    "Tableau",
+    "Cybersecurity"
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "total_jobs": 11980,
+  "total_skills": 45,
+  "total_industries": 9,
+  "total_locations": 13,
+  "average_salary_overall": 162638,
+  "industry_distribution": [
+    {
+      "industry": "Aerospace",
+      "total_jobs": 790,
+      "average_salary": 210991
+    },
+    {
+      "industry": "Consulting",
+      "total_jobs": 926,
+      "average_salary": 121416
+    },
+    {
+      "industry": "E-Commerce",
+      "total_jobs": 1773,
+      "average_salary": 149775
+    },
+    {
+      "industry": "Finance / FinTech",
+      "total_jobs": 2771,
+      "average_salary": 161694
+    },
+    {
+      "industry": "Healthcare & BioTech",
+      "total_jobs": 1631,
+      "average_salary": 153315
+    },
+    {
+      "industry": "Media & Entertainment",
+      "total_jobs": 388,
+      "average_salary": 142589
+    },
+    {
+      "industry": "Retail",
+      "total_jobs": 273,
+      "average_salary": 115833
+    },
+    {
+      "industry": "Tech / Software",
+      "total_jobs": 2738,
+      "average_salary": 181149
+    },
+    {
+      "industry": "Telecommunications",
+      "total_jobs": 690,
+      "average_salary": 177819
+    }
+  ],
+  "location_distribution": [
+    {
+      "location": "Atlanta, GA",
+      "total_jobs": 945,
+      "average_salary": 163194
+    },
+    {
+      "location": "Austin, TX",
+      "total_jobs": 913,
+      "average_salary": 166263
+    },
+    {
+      "location": "Bangalore, India",
+      "total_jobs": 961,
+      "average_salary": 162356
+    },
+    {
+      "location": "Boston, MA",
+      "total_jobs": 930,
+      "average_salary": 162800
+    },
+    {
+      "location": "Chicago, IL",
+      "total_jobs": 907,
+      "average_salary": 161909
+    },
+    {
+      "location": "Denver, CO",
+      "total_jobs": 888,
+      "average_salary": 160716
+    },
+    {
+      "location": "London, UK",
+      "total_jobs": 881,
+      "average_salary": 164074
+    },
+    {
+      "location": "New York, NY",
+      "total_jobs": 917,
+      "average_salary": 160893
+    },
+    {
+      "location": "Remote",
+      "total_jobs": 903,
+      "average_salary": 163793
+    },
+    {
+      "location": "San Diego, CA",
+      "total_jobs": 940,
+      "average_salary": 158887
+    },
+    {
+      "location": "San Francisco, CA",
+      "total_jobs": 941,
+      "average_salary": 162888
+    },
+    {
+      "location": "Seattle, WA",
+      "total_jobs": 899,
+      "average_salary": 161155
+    },
+    {
+      "location": "Toronto, Canada",
+      "total_jobs": 955,
+      "average_salary": 165331
+    }
+  ],
+  "top_skills_overall": [
+    {
+      "name": "Python",
+      "category": "Programming Languages",
+      "total_postings": 10703,
+      "percentage_of_jobs": 89.3,
+      "average_salary": 163177,
+      "recent_growth_pct": -0.8,
+      "demand_tier": "High",
+      "related_skills": [
+        "Docker",
+        "SQL",
+        "AWS",
+        "Machine Learning",
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Docker",
+      "category": "Cloud & DevOps",
+      "total_postings": 7395,
+      "percentage_of_jobs": 61.7,
+      "average_salary": 170316,
+      "recent_growth_pct": 0.7,
+      "demand_tier": "High",
+      "related_skills": [
+        "Python",
+        "AWS",
+        "Kubernetes",
+        "SQL",
+        "Linux"
+      ]
+    },
+    {
+      "name": "SQL",
+      "category": "Programming Languages",
+      "total_postings": 6801,
+      "percentage_of_jobs": 56.8,
+      "average_salary": 145672,
+      "recent_growth_pct": -2.2,
+      "demand_tier": "High",
+      "related_skills": [
+        "Python",
+        "Docker",
+        "Tableau",
+        "Statistics",
+        "AWS"
+      ]
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud & DevOps",
+      "total_postings": 5268,
+      "percentage_of_jobs": 44.0,
+      "average_salary": 178230,
+      "recent_growth_pct": -2.6,
+      "demand_tier": "High",
+      "related_skills": [
+        "Docker",
+        "Python",
+        "Kubernetes",
+        "SQL",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "total_postings": 3837,
+      "percentage_of_jobs": 32.0,
+      "average_salary": 184233,
+      "recent_growth_pct": 0.8,
+      "demand_tier": "High",
+      "related_skills": [
+        "Docker",
+        "AWS",
+        "Python",
+        "Terraform",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Machine Learning & AI",
+      "total_postings": 3645,
+      "percentage_of_jobs": 30.4,
+      "average_salary": 192192,
+      "recent_growth_pct": -8.1,
+      "demand_tier": "High",
+      "related_skills": [
+        "Python",
+        "PyTorch",
+        "Deep Learning",
+        "Scikit-learn",
+        "Docker"
+      ]
+    },
+    {
+      "name": "PyTorch",
+      "category": "Machine Learning & AI",
+      "total_postings": 3229,
+      "percentage_of_jobs": 27.0,
+      "average_salary": 197056,
+      "recent_growth_pct": -7.7,
+      "demand_tier": "High",
+      "related_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Scikit-learn",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Linux",
+      "category": "Cloud & DevOps",
+      "total_postings": 3183,
+      "percentage_of_jobs": 26.6,
+      "average_salary": 164045,
+      "recent_growth_pct": 0.1,
+      "demand_tier": "High",
+      "related_skills": [
+        "Docker",
+        "Python",
+        "Cybersecurity",
+        "Kubernetes",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "category": "Data Engineering & Analytics",
+      "total_postings": 3116,
+      "percentage_of_jobs": 26.0,
+      "average_salary": 121565,
+      "recent_growth_pct": 0.5,
+      "demand_tier": "High",
+      "related_skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Statistics",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "category": "Web & Security",
+      "total_postings": 2771,
+      "percentage_of_jobs": 23.1,
+      "average_salary": 164858,
+      "recent_growth_pct": 2.3,
+      "demand_tier": "High",
+      "related_skills": [
+        "Linux",
+        "Docker",
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ]
+    }
+  ],
+  "fastest_growing_skills": [
+    {
+      "name": "LLM",
+      "category": "Machine Learning & AI",
+      "total_postings": 1224,
+      "percentage_of_jobs": 10.2,
+      "average_salary": 210027,
+      "recent_growth_pct": 29.9,
+      "demand_tier": "Medium",
+      "related_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "Deep Learning",
+        "C++"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "category": "Machine Learning & AI",
+      "total_postings": 1843,
+      "percentage_of_jobs": 15.4,
+      "average_salary": 193190,
+      "recent_growth_pct": 24.8,
+      "demand_tier": "Medium",
+      "related_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "Deep Learning",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "GCP",
+      "category": "Cloud & DevOps",
+      "total_postings": 745,
+      "percentage_of_jobs": 6.2,
+      "average_salary": 208268,
+      "recent_growth_pct": 14.7,
+      "demand_tier": "Low",
+      "related_skills": [
+        "Cloud Computing",
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "Docker"
+      ]
+    },
+    {
+      "name": "BigQuery",
+      "category": "Data Engineering & Analytics",
+      "total_postings": 2231,
+      "percentage_of_jobs": 18.6,
+      "average_salary": 142890,
+      "recent_growth_pct": 6.5,
+      "demand_tier": "High",
+      "related_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "category": "Data Engineering & Analytics",
+      "total_postings": 1910,
+      "percentage_of_jobs": 15.9,
+      "average_salary": 113167,
+      "recent_growth_pct": 6.2,
+      "demand_tier": "Medium",
+      "related_skills": [
+        "SQL",
+        "Tableau",
+        "Excel",
+        "Python",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "category": "Programming Languages",
+      "total_postings": 893,
+      "percentage_of_jobs": 7.5,
+      "average_salary": 144633,
+      "recent_growth_pct": 5.8,
+      "demand_tier": "Low",
+      "related_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "category": "Cloud & DevOps",
+      "total_postings": 1917,
+      "percentage_of_jobs": 16.0,
+      "average_salary": 190964,
+      "recent_growth_pct": 4.0,
+      "demand_tier": "Medium",
+      "related_skills": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "category": "Web & Security",
+      "total_postings": 1264,
+      "percentage_of_jobs": 10.6,
+      "average_salary": 139553,
+      "recent_growth_pct": 3.7,
+      "demand_tier": "Medium",
+      "related_skills": [
+        "Cybersecurity",
+        "Linux",
+        "Python",
+        "SIEM",
+        "Docker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "Python": {
+    "name": "Python",
+    "category": "Programming Languages",
+    "total_postings": 10703,
+    "percentage_of_jobs": 89.3,
+    "average_salary": 163177,
+    "recent_growth_pct": -0.8,
+    "demand_tier": "High",
+    "related_skills": [
+      "Docker",
+      "SQL",
+      "AWS",
+      "Machine Learning",
+      "PyTorch"
+    ]
+  },
+  "SQL": {
+    "name": "SQL",
+    "category": "Programming Languages",
+    "total_postings": 6801,
+    "percentage_of_jobs": 56.8,
+    "average_salary": 145672,
+    "recent_growth_pct": -2.2,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "Docker",
+      "Tableau",
+      "Statistics",
+      "AWS"
+    ]
+  },
+  "JavaScript": {
+    "name": "JavaScript",
+    "category": "Programming Languages",
+    "total_postings": 1193,
+    "percentage_of_jobs": 10.0,
+    "average_salary": 145180,
+    "recent_growth_pct": -0.6,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "React",
+      "Node.js",
+      "SQL",
+      "Git",
+      "HTML/CSS"
+    ]
+  },
+  "TypeScript": {
+    "name": "TypeScript",
+    "category": "Programming Languages",
+    "total_postings": 893,
+    "percentage_of_jobs": 7.5,
+    "average_salary": 144633,
+    "recent_growth_pct": 5.8,
+    "demand_tier": "Low",
+    "related_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "Git"
+    ]
+  },
+  "Java": {
+    "name": "Java",
+    "category": "Programming Languages",
+    "total_postings": 0,
+    "percentage_of_jobs": 0.0,
+    "average_salary": 105000,
+    "recent_growth_pct": 0.0,
+    "demand_tier": "Low",
+    "related_skills": []
+  },
+  "C++": {
+    "name": "C++",
+    "category": "Programming Languages",
+    "total_postings": 1729,
+    "percentage_of_jobs": 14.4,
+    "average_salary": 210638,
+    "recent_growth_pct": -18.2,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Deep Learning",
+      "TensorFlow"
+    ]
+  },
+  "R": {
+    "name": "R",
+    "category": "Programming Languages",
+    "total_postings": 776,
+    "percentage_of_jobs": 6.5,
+    "average_salary": 104141,
+    "recent_growth_pct": -4.8,
+    "demand_tier": "Low",
+    "related_skills": [
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Python",
+      "Data Visualization"
+    ]
+  },
+  "Bash": {
+    "name": "Bash",
+    "category": "Programming Languages",
+    "total_postings": 1689,
+    "percentage_of_jobs": 14.1,
+    "average_salary": 150113,
+    "recent_growth_pct": -6.1,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Linux",
+      "Python",
+      "Docker",
+      "Cybersecurity",
+      "Network Security"
+    ]
+  },
+  "Scala": {
+    "name": "Scala",
+    "category": "Programming Languages",
+    "total_postings": 729,
+    "percentage_of_jobs": 6.1,
+    "average_salary": 169957,
+    "recent_growth_pct": -1.0,
+    "demand_tier": "Low",
+    "related_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS",
+      "Docker"
+    ]
+  },
+  "Machine Learning": {
+    "name": "Machine Learning",
+    "category": "Machine Learning & AI",
+    "total_postings": 3645,
+    "percentage_of_jobs": 30.4,
+    "average_salary": 192192,
+    "recent_growth_pct": -8.1,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-learn",
+      "Docker"
+    ]
+  },
+  "Deep Learning": {
+    "name": "Deep Learning",
+    "category": "Machine Learning & AI",
+    "total_postings": 2770,
+    "percentage_of_jobs": 23.1,
+    "average_salary": 198286,
+    "recent_growth_pct": -4.5,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "C++"
+    ]
+  },
+  "Generative AI": {
+    "name": "Generative AI",
+    "category": "Machine Learning & AI",
+    "total_postings": 1843,
+    "percentage_of_jobs": 15.4,
+    "average_salary": 193190,
+    "recent_growth_pct": 24.8,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-learn"
+    ]
+  },
+  "LLM": {
+    "name": "LLM",
+    "category": "Machine Learning & AI",
+    "total_postings": 1224,
+    "percentage_of_jobs": 10.2,
+    "average_salary": 210027,
+    "recent_growth_pct": 29.9,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Deep Learning",
+      "C++"
+    ]
+  },
+  "PyTorch": {
+    "name": "PyTorch",
+    "category": "Machine Learning & AI",
+    "total_postings": 3229,
+    "percentage_of_jobs": 27.0,
+    "average_salary": 197056,
+    "recent_growth_pct": -7.7,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Scikit-learn",
+      "Docker"
+    ]
+  },
+  "TensorFlow": {
+    "name": "TensorFlow",
+    "category": "Machine Learning & AI",
+    "total_postings": 1548,
+    "percentage_of_jobs": 12.9,
+    "average_salary": 211206,
+    "recent_growth_pct": -10.1,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Deep Learning",
+      "C++"
+    ]
+  },
+  "Scikit-learn": {
+    "name": "Scikit-learn",
+    "category": "Machine Learning & AI",
+    "total_postings": 2438,
+    "percentage_of_jobs": 20.4,
+    "average_salary": 173950,
+    "recent_growth_pct": -6.4,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "PyTorch"
+    ]
+  },
+  "NLP": {
+    "name": "NLP",
+    "category": "Machine Learning & AI",
+    "total_postings": 1455,
+    "percentage_of_jobs": 12.1,
+    "average_salary": 191947,
+    "recent_growth_pct": -7.4,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Deep Learning",
+      "Generative AI"
+    ]
+  },
+  "Computer Vision": {
+    "name": "Computer Vision",
+    "category": "Machine Learning & AI",
+    "total_postings": 760,
+    "percentage_of_jobs": 6.3,
+    "average_salary": 229481,
+    "recent_growth_pct": -12.3,
+    "demand_tier": "Low",
+    "related_skills": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "Mathematics",
+      "Machine Learning"
+    ]
+  },
+  "Pandas": {
+    "name": "Pandas",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 1931,
+    "percentage_of_jobs": 16.1,
+    "average_salary": 135251,
+    "recent_growth_pct": -0.6,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Statistics",
+      "Tableau",
+      "Data Visualization"
+    ]
+  },
+  "Data Visualization": {
+    "name": "Data Visualization",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 1933,
+    "percentage_of_jobs": 16.1,
+    "average_salary": 123022,
+    "recent_growth_pct": -0.4,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Statistics",
+      "Pandas"
+    ]
+  },
+  "Tableau": {
+    "name": "Tableau",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 3116,
+    "percentage_of_jobs": 26.0,
+    "average_salary": 121565,
+    "recent_growth_pct": 0.5,
+    "demand_tier": "High",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Statistics",
+      "Power BI"
+    ]
+  },
+  "Power BI": {
+    "name": "Power BI",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 1910,
+    "percentage_of_jobs": 15.9,
+    "average_salary": 113167,
+    "recent_growth_pct": 6.2,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "SQL",
+      "Tableau",
+      "Excel",
+      "Python",
+      "Statistics"
+    ]
+  },
+  "Statistics": {
+    "name": "Statistics",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 2716,
+    "percentage_of_jobs": 22.7,
+    "average_salary": 130611,
+    "recent_growth_pct": 2.8,
+    "demand_tier": "High",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Pandas",
+      "Excel"
+    ]
+  },
+  "Spark": {
+    "name": "Spark",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 1147,
+    "percentage_of_jobs": 9.6,
+    "average_salary": 170351,
+    "recent_growth_pct": -2.2,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Docker",
+      "Data Pipelines"
+    ]
+  },
+  "Airflow": {
+    "name": "Airflow",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 693,
+    "percentage_of_jobs": 5.8,
+    "average_salary": 169975,
+    "recent_growth_pct": -4.4,
+    "demand_tier": "Low",
+    "related_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS",
+      "Docker"
+    ]
+  },
+  "Kafka": {
+    "name": "Kafka",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 714,
+    "percentage_of_jobs": 6.0,
+    "average_salary": 170040,
+    "recent_growth_pct": -1.0,
+    "demand_tier": "Low",
+    "related_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS",
+      "Docker"
+    ]
+  },
+  "Snowflake": {
+    "name": "Snowflake",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 2210,
+    "percentage_of_jobs": 18.4,
+    "average_salary": 130576,
+    "recent_growth_pct": 3.4,
+    "demand_tier": "High",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Tableau",
+      "Power BI"
+    ]
+  },
+  "BigQuery": {
+    "name": "BigQuery",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 2231,
+    "percentage_of_jobs": 18.6,
+    "average_salary": 142890,
+    "recent_growth_pct": 6.5,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Tableau"
+    ]
+  },
+  "Excel": {
+    "name": "Excel",
+    "category": "Data Engineering & Analytics",
+    "total_postings": 2368,
+    "percentage_of_jobs": 19.8,
+    "average_salary": 111288,
+    "recent_growth_pct": -0.9,
+    "demand_tier": "High",
+    "related_skills": [
+      "SQL",
+      "Tableau",
+      "Python",
+      "Power BI",
+      "Statistics"
+    ]
+  },
+  "AWS": {
+    "name": "AWS",
+    "category": "Cloud & DevOps",
+    "total_postings": 5268,
+    "percentage_of_jobs": 44.0,
+    "average_salary": 178230,
+    "recent_growth_pct": -2.6,
+    "demand_tier": "High",
+    "related_skills": [
+      "Docker",
+      "Python",
+      "Kubernetes",
+      "SQL",
+      "Terraform"
+    ]
+  },
+  "Docker": {
+    "name": "Docker",
+    "category": "Cloud & DevOps",
+    "total_postings": 7395,
+    "percentage_of_jobs": 61.7,
+    "average_salary": 170316,
+    "recent_growth_pct": 0.7,
+    "demand_tier": "High",
+    "related_skills": [
+      "Python",
+      "AWS",
+      "Kubernetes",
+      "SQL",
+      "Linux"
+    ]
+  },
+  "Kubernetes": {
+    "name": "Kubernetes",
+    "category": "Cloud & DevOps",
+    "total_postings": 3837,
+    "percentage_of_jobs": 32.0,
+    "average_salary": 184233,
+    "recent_growth_pct": 0.8,
+    "demand_tier": "High",
+    "related_skills": [
+      "Docker",
+      "AWS",
+      "Python",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  "Cloud Computing": {
+    "name": "Cloud Computing",
+    "category": "Cloud & DevOps",
+    "total_postings": 1917,
+    "percentage_of_jobs": 16.0,
+    "average_salary": 190964,
+    "recent_growth_pct": 4.0,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  "CI/CD": {
+    "name": "CI/CD",
+    "category": "Cloud & DevOps",
+    "total_postings": 1949,
+    "percentage_of_jobs": 16.3,
+    "average_salary": 180668,
+    "recent_growth_pct": -1.0,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Linux"
+    ]
+  },
+  "Linux": {
+    "name": "Linux",
+    "category": "Cloud & DevOps",
+    "total_postings": 3183,
+    "percentage_of_jobs": 26.6,
+    "average_salary": 164045,
+    "recent_growth_pct": 0.1,
+    "demand_tier": "High",
+    "related_skills": [
+      "Docker",
+      "Python",
+      "Cybersecurity",
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  "Terraform": {
+    "name": "Terraform",
+    "category": "Cloud & DevOps",
+    "total_postings": 2363,
+    "percentage_of_jobs": 19.7,
+    "average_salary": 185928,
+    "recent_growth_pct": -1.5,
+    "demand_tier": "High",
+    "related_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+  "MLOps": {
+    "name": "MLOps",
+    "category": "Cloud & DevOps",
+    "total_postings": 1262,
+    "percentage_of_jobs": 10.5,
+    "average_salary": 191651,
+    "recent_growth_pct": -11.7,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Docker",
+      "Scikit-learn"
+    ]
+  },
+  "Azure": {
+    "name": "Azure",
+    "category": "Cloud & DevOps",
+    "total_postings": 1519,
+    "percentage_of_jobs": 12.7,
+    "average_salary": 185890,
+    "recent_growth_pct": 1.7,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  "GCP": {
+    "name": "GCP",
+    "category": "Cloud & DevOps",
+    "total_postings": 745,
+    "percentage_of_jobs": 6.2,
+    "average_salary": 208268,
+    "recent_growth_pct": 14.7,
+    "demand_tier": "Low",
+    "related_skills": [
+      "Cloud Computing",
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker"
+    ]
+  },
+  "React": {
+    "name": "React",
+    "category": "Web & Security",
+    "total_postings": 1193,
+    "percentage_of_jobs": 10.0,
+    "average_salary": 145180,
+    "recent_growth_pct": -0.6,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "JavaScript",
+      "Node.js",
+      "SQL",
+      "Git",
+      "HTML/CSS"
+    ]
+  },
+  "Node.js": {
+    "name": "Node.js",
+    "category": "Web & Security",
+    "total_postings": 1193,
+    "percentage_of_jobs": 10.0,
+    "average_salary": 145180,
+    "recent_growth_pct": -0.6,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "JavaScript",
+      "React",
+      "SQL",
+      "Git",
+      "HTML/CSS"
+    ]
+  },
+  "FastAPI": {
+    "name": "FastAPI",
+    "category": "Web & Security",
+    "total_postings": 1780,
+    "percentage_of_jobs": 14.9,
+    "average_salary": 168680,
+    "recent_growth_pct": -4.5,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "SQL",
+      "Python",
+      "Docker",
+      "Machine Learning",
+      "PyTorch"
+    ]
+  },
+  "Git": {
+    "name": "Git",
+    "category": "Web & Security",
+    "total_postings": 1944,
+    "percentage_of_jobs": 16.2,
+    "average_salary": 151817,
+    "recent_growth_pct": -1.9,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Docker",
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  "Cybersecurity": {
+    "name": "Cybersecurity",
+    "category": "Web & Security",
+    "total_postings": 2771,
+    "percentage_of_jobs": 23.1,
+    "average_salary": 164858,
+    "recent_growth_pct": 2.3,
+    "demand_tier": "High",
+    "related_skills": [
+      "Linux",
+      "Docker",
+      "Python",
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  "Network Security": {
+    "name": "Network Security",
+    "category": "Web & Security",
+    "total_postings": 1264,
+    "percentage_of_jobs": 10.6,
+    "average_salary": 139553,
+    "recent_growth_pct": 3.7,
+    "demand_tier": "Medium",
+    "related_skills": [
+      "Cybersecurity",
+      "Linux",
+      "Python",
+      "SIEM",
+      "Docker"
+    ]
+  }
+}
